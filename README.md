@@ -3,5 +3,5 @@
 </a>
 
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=joshuajeschek&theme=github_dark&layout=compact&hide_title=true&card_width=425" />
+        <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=joshuajeschek&theme=github_dark&layout=compact&hide_title=true&card_width=425" width=425 />
 </a>
