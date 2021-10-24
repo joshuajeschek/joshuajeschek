@@ -1,7 +1,7 @@
 <a align="left" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=joshuajeschek&count_private=true&show_icons=true&theme=github_dark" width=400 />
+        <img align="top" src="https://github-readme-stats.vercel.app/api?username=joshuajeschek&count_private=true&show_icons=true&theme=github_dark" width=430 />
 </a>
 
 <a align="right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=joshuajeschek&theme=github_dark&layout=compact" width=400 />
+        <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=joshuajeschek&theme=github_dark&layout=compact" width=430 />
 </a>
