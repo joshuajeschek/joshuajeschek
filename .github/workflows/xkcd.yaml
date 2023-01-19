@@ -10,10 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: clone repo
-      uses: actions/checkout@v2
-      with:
-        ref: main
-        fetch-depth: 0
+      uses: actions/checkout@v3
 
     - name: replace xkcd
       run: ./xkcd.sh

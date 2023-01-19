@@ -7,3 +7,4 @@ echo "ALT: $ALT"
 
 sed -i -e 's|<img id="xkcd" [^>]* width|<img id="xkcd" src="'"${SRC}"'" alt="'"${ALT}"'" width|g' README.md
 
+cat README.md
