@@ -1,0 +1,34 @@
+name: update readme
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "4 20 * * *"
+
+jobs:
+  update-xkcd:
+    runs-on: ubuntu-latest
+    steps:
+    - name: clone repo
+      uses: actions/checkout@v3
+
+    - name: replace xkcd
+      run: ./xkcd.sh
+
+    - name: add and commit
+      uses: EndBug/add-and-commit@v9
+      with:
+        add: 'README.md'
+        author_name: Github Actions
+        message: 'Update xkcd comic'
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_PROJECTS: False
+          SHOW_TIMEZONE: False
+          SHOW_LOC_CHART: False
+          SHOW_LANGUAGE_PER_REPO: False
