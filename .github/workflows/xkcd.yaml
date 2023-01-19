@@ -1,4 +1,4 @@
-name: Dendron Publish
+name: update xkcd
 
 on:
   workflow_dispatch:
