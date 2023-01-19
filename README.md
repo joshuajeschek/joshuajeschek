@@ -1,3 +1,4 @@
+### Wakatime Stats
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C360%20hrs%2042%20mins-blue)
 
@@ -63,9 +64,5 @@ Linux                    31 hrs 24 mins      ███████████�
 
 ### Today's xkcd
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img align="center" id="xkcd" src="https://imgs.xkcd.com/comics/methodology_trial.png" alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." width=420 />
-</a>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=joshuajeschek&theme=github_dark&layout=compact&langs_count=14&hide_title=true" width=420 />
+        <img align="center" id="xkcd" src="https://imgs.xkcd.com/comics/methodology_trial.png" alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." height=420 />
 </a>
