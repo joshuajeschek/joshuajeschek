@@ -23,5 +23,5 @@ jobs:
       with:
         add: 'README.md'
         author_name: Joshua Jeschek
-        commiter_name: Github Actions
+        committer_name: Github Actions
         message: 'Update xkcd comic'
