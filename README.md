@@ -64,5 +64,5 @@ Linux                    31 hrs 24 mins      ███████████�
 
 ### Today's xkcd
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-        <img align="center" id="xkcd" src="https://imgs.xkcd.com/comics/methodology_trial.png" alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." height=420 />
+        <img align="center" id="xkcd" src="https://imgs.xkcd.com/comics/methodology_trial.png" alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." height=300 />
 </a>
