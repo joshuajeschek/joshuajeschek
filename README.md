@@ -50,7 +50,7 @@ Linux                    31 hrs 17 mins      ███████████�
  Last Updated on 20/01/2023 20:16:59 UTC
 <!--END_SECTION:waka-->
 
-### Today's xkcd
+### Current(ish) xkcd
 <a id="xkcd-a" title="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." href="https://www.xkcd.com" target="_blank">
         <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/methodology_trial.png" alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." height=300 />
 </a>
