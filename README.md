@@ -51,6 +51,6 @@ Linux                    31 hrs 17 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/methodology_trial.png" alt="If you think THAT'S unethical, you should see the stuff we approved via our Placebo IRB." height=300 />
+<a id="xkcd-a" title="At least there's a general understanding all around that Doctor Who is its own thing." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/runtime.png" alt="At least there's a general understanding all around that Doctor Who is its own thing." height=300 />
 </a>
