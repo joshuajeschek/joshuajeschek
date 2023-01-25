@@ -50,6 +50,6 @@ Linux                    31 hrs 51 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I just think lane markers should follow the local magnetic declination." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/lane_change_highway.png" alt="I just think lane markers should follow the local magnetic declination." height=300 />
+<a id="xkcd-a" title="I'll take mine on the rocks, no ice." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planet_killer_comet_margarita.png" alt="I'll take mine on the rocks, no ice." height=300 />
 </a>
