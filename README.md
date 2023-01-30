@@ -51,6 +51,6 @@ Linux                    15 hrs 23 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/code_lifespan.png" alt="Surely (no one/everyone) will (recognize how flexible and useful this architecture is/spend a huge amount of effort painstakingly preserving and updating this garbage I wrote in 20 minutes)" height=300 />
+<a id="xkcd-a" title="According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/k_means_clustering.png" alt="According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world." height=300 />
 </a>
