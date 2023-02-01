@@ -51,6 +51,6 @@ Linux                    14 hrs 28 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/k_means_clustering.png" alt="According to my especially unsupervised K-means clustering algorithm, there are currently about 8 billion types of people in the world." height=300 />
+<a id="xkcd-a" title="If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bursa_of_fabricius.png" alt="If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research." height=300 />
 </a>
