@@ -51,6 +51,6 @@ Linux                    20 hrs 14 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bursa_of_fabricius.png" alt="If an anatomical structure is named for a person, it means they were the only person to have it. Pierre Paul Broca had a special area of his brain that created powerful magnetic fields, enabling him to do 19th century fMRI research." height=300 />
+<a id="xkcd-a" title="If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/size_comparisons.png" alt="If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas." height=300 />
 </a>
