@@ -51,6 +51,6 @@ Linux                    26 hrs 26 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/size_comparisons.png" alt="If you shrank the Solar System to the size of Texas, the Houston metro area would be smaller than a grasshopper in Dallas." height=300 />
+<a id="xkcd-a" title="There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electron_color.png" alt="There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring." height=300 />
 </a>
