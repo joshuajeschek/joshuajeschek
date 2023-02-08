@@ -51,6 +51,6 @@ Linux                    27 hrs 59 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electron_color.png" alt="There's quark color, but that's not really color--it's just an admission by 20th century physicists that numbers are boring." height=300 />
+<a id="xkcd-a" title="3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/coordinate_plane_closure.png" alt="3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space." height=300 />
 </a>
