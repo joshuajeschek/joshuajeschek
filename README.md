@@ -51,6 +51,6 @@ Linux                    30 hrs 31 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/coordinate_plane_closure.png" alt="3D graphs that don't contact the plane in the closure area may proceed as scheduled, but be alert for possible collisions with 2D graph lines that reach the hole and unexpectedly enter 3D space." height=300 />
+<a id="xkcd-a" title="If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/only_serifs.png" alt="If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans." height=300 />
 </a>
