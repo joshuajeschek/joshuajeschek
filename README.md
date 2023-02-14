@@ -51,6 +51,6 @@ Linux                    16 hrs 15 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/only_serifs.png" alt="If you ever want to get beaten up by a bunch of graphic designers, try removing the serifs from Times New Roman and adding them to Comic Sans." height=300 />
+<a id="xkcd-a" title="'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/weather_station.png" alt="'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge." height=300 />
 </a>
