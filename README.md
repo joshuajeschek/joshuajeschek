@@ -51,6 +51,6 @@ Linux                    14 hrs 41 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/weather_station.png" alt="'Pour one out for precipitation data integrity,' I say, solemnly upending the glass into the rain gauge." height=300 />
+<a id="xkcd-a" title="The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/omniknot.png" alt="The Gordian knot is an omniknot tied using every bend in the Ashley Book of Knots, and then for extra security the upper rope at every crossing is connected to the lower with a randomly-chosen hitch." height=300 />
 </a>
