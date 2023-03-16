@@ -48,5 +48,5 @@ Linux                    19 hrs 17 mins      ███████████�
 
 ### Current(ish) xkcd
 <a id="xkcd-a" title="We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/data_quality.png" alt="." height=300 />
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/flatten_the_planets.png" alt="We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds." height=300 />
 </a>
