@@ -47,6 +47,6 @@ Linux                    16 hrs 15 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/flatten_the_planets.png" alt="We'll turn the asteroid belt into ball bearings to go between different rings orbiting at different speeds." height=300 />
+<a id="xkcd-a" title="My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/march_madness.png" alt="My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman." height=300 />
 </a>
