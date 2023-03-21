@@ -47,6 +47,6 @@ Linux                    8 hrs 56 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/march_madness.png" alt="My bracket has 76 trombones led by John Philip Sousa facing off against thousands of emperor penguins led by Morgan Freeman." height=300 />
+<a id="xkcd-a" title="The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/salt_dome.png" alt="The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve." height=300 />
 </a>
