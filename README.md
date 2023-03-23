@@ -47,6 +47,6 @@ Linux                    14 hrs 3 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/salt_dome.png" alt="The US uses hollowed-out salt domes to store the Strategic Petroleum Reserve, and non-hollowed-out ones to store the Strategic Salt Reserve." height=300 />
+<a id="xkcd-a" title="It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/air_handler.png" alt="It maintains odor levels in a normal familiar range, so if you open the windows and the air gets too fresh, it filters it through some dirty laundry samples to compensate." height=300 />
 </a>
