@@ -47,6 +47,6 @@ Linux                    15 hrs 22 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/relative_terms.png" alt="Small sewing machines are sewing machines that are smaller than a sewing machine. A sewing machine is larger than a small sewing machine, but quieter than a loud sewing machine." height=300 />
+<a id="xkcd-a" title="Subgroup analysis is ongoing." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/effect_size.png" alt="Subgroup analysis is ongoing." height=300 />
 </a>
