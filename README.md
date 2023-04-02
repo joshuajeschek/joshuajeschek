@@ -47,6 +47,6 @@ Linux                    31 hrs 3 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/towed_message.png" alt=""Hi, what you do is fly over a designated zone and detach the--" "WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE"" height=300 />
+<a id="xkcd-a" title="'Hi, what you do is fly over a designated zone and detach the--' 'WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/towed_message.png" alt="'Hi, what you do is fly over a designated zone and detach the--' 'WE'RE SORRY, THE MOBILE CUSTOMER YOU ARE TRYING TO REACH IS OUT OF SERVICE'" height=300 />
 </a>
