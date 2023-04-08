@@ -47,6 +47,6 @@ Linux                    30 hrs 31 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/easily_confused_acronyms.png" alt="'Lever' was originally an acronym for Load Emplification by the Vimulated Emission of Radiation." height=300 />
+<a id="xkcd-a" title="Nowadays the only ones left that do anything are turtles." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/paleontology_museum.png" alt="Nowadays the only ones left that do anything are turtles." height=300 />
 </a>
