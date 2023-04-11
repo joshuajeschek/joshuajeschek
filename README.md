@@ -47,6 +47,6 @@ Linux                    12 hrs 40 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Nowadays the only ones left that do anything are turtles." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/paleontology_museum.png" alt="Nowadays the only ones left that do anything are turtles." height=300 />
+<a id="xkcd-a" title="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/1_to_1_scale.png" alt="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." height=300 />
 </a>
