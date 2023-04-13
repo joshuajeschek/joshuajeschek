@@ -47,6 +47,6 @@ Linux                    29 mins             ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/1_to_1_scale.png" alt="There's a version that shows the planets with no cropping, but it's hard to find a display that supports it." height=300 />
+<a id="xkcd-a" title="Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/diffraction_spikes.png" alt="Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them." height=300 />
 </a>
