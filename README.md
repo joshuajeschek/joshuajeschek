@@ -47,6 +47,6 @@ Linux                    6 hrs 1 min         ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/diffraction_spikes.png" alt="Even if a planet is lucky enough to have a stable orbit that weaves between the spikes, the seasons get weird whenever it passes close to them." height=300 />
+<a id="xkcd-a" title="The E's wedding invitation definitely used the word LOVE more times than was strictly necessary." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/linguistics_gossip.png" alt="The E's wedding invitation definitely used the word LOVE more times than was strictly necessary." height=300 />
 </a>
