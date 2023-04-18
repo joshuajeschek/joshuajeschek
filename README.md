@@ -47,6 +47,6 @@ Linux                    18 hrs 28 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The E's wedding invitation definitely used the word LOVE more times than was strictly necessary." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/linguistics_gossip.png" alt="The E's wedding invitation definitely used the word LOVE more times than was strictly necessary." height=300 />
+<a id="xkcd-a" title="Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png" alt="Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career." height=300 />
 </a>
