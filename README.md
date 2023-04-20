@@ -47,6 +47,6 @@ Linux                    31 hrs 27 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cosmological_nostalgia_content.png" alt="Later renouncing clickbait, Einstein called his inclusion of cosmological content in general relativity the biggest blunder of his career." height=300 />
+<a id="xkcd-a" title="Gotta go fast" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/escape_speed.png" alt="Gotta go fast" height=300 />
 </a>
