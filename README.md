@@ -47,6 +47,6 @@ Linux                    11 hrs 4 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It says to cut the onions into 1/4'' slices, but I'd better correct for length contraction." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/recipe_relativity.png" alt="It says to cut the onions into 1/4'' slices, but I'd better correct for length contraction." height=300 />
+<a id="xkcd-a" title="Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/definition_of_e.png" alt="Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side." height=300 />
 </a>
