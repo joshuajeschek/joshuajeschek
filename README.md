@@ -47,6 +47,6 @@ Linux                    12 hrs 55 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/definition_of_e.png" alt="Yeah, my math teacher back in high school set up the system to try to teach us something or other, but the 100% rate was unbelievably good, so I engineered a hostile takeover of his bank and now use it to make extra cash on the side." height=300 />
+<a id="xkcd-a" title=""The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/overlapping_circles.png" alt=""The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality" height=300 />
 </a>
