@@ -47,6 +47,6 @@ Linux                    13 hrs              ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/overlapping_circles.png" alt=""The Venn diagram of the sun and the moon is a circle." --someone being snarky at totality" height=300 />
+<a id="xkcd-a" title="Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tapetum_lucidum.png" alt="Using a reflective wall in a game to give one shot two chances to hit is called a double-tapetum lucidum." height=300 />
 </a>
