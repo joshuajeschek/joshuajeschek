@@ -47,6 +47,6 @@ Linux                    14 hrs 32 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!' --common playground taunt" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/college_knowledge.png" alt="'Your chitin armor is no match for our iron-tipped stingers! Better go hide in your jars!' --common playground taunt" height=300 />
+<a id="xkcd-a" title="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/commemorative_plaque.png" alt="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." height=300 />
 </a>
