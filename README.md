@@ -47,6 +47,6 @@ Linux                    14 hrs 27 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/commemorative_plaque.png" alt="[Below] On this site on May 12th, 2023, I finally learned how to use the masonry bit for my drill." height=300 />
+<a id="xkcd-a" title="This rumpled fabric at the corner looks like evidence of ongoing tectonic activity." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planetary_scientist.png" alt="This rumpled fabric at the corner looks like evidence of ongoing tectonic activity." height=300 />
 </a>
