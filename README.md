@@ -47,6 +47,6 @@ Linux                    21 hrs 42 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I don't understand why anyone would pay full price for a flatbed truck rental when you can buy 'DETOUR' signs online for like $10." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/taxiing.png" alt="I don't understand why anyone would pay full price for a flatbed truck rental when you can buy 'DETOUR' signs online for like $10." height=300 />
+<a id="xkcd-a" title="ADDITIONAL NOTES: Fixed a bug that caused some rocks to generate virtually infinite heat while just sitting there." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/siphon.png" alt="ADDITIONAL NOTES: Fixed a bug that caused some rocks to generate virtually infinite heat while just sitting there." height=300 />
 </a>
