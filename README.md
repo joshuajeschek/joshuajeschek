@@ -47,6 +47,6 @@ Linux                    17 hrs 35 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/crystal_ball.png" alt="They often use ball lenses to collect light at the ends of optical fibers, so when you look stuff up on the internet you're actually scrying through a crystal ball." height=300 />
+<a id="xkcd-a" title="Party Mode also enables the feature, but reverses the slider." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/noise_filter.png" alt="Party Mode also enables the feature, but reverses the slider." height=300 />
 </a>
