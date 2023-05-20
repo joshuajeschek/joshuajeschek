@@ -47,6 +47,6 @@ Linux                    21 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Party Mode also enables the feature, but reverses the slider." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/noise_filter.png" alt="Party Mode also enables the feature, but reverses the slider." height=300 />
+<a id="xkcd-a" title="My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cuisine.png" alt="My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space." height=300 />
 </a>
