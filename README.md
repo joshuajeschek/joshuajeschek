@@ -47,6 +47,6 @@ Linux                    27 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cuisine.png" alt="My connection to it goes way back, to my early days, when I was just a cloud of primordial hydrogen collapsing in the darkness of space." height=300 />
+<a id="xkcd-a" title="Tau Ceti is farther away, so it took me 36 years to start the war over updog." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/exoplanet_high_5.png" alt="Tau Ceti is farther away, so it took me 36 years to start the war over updog." height=300 />
 </a>
