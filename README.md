@@ -47,6 +47,6 @@ Linux                    32 hrs 48 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Tau Ceti is farther away, so it took me 36 years to start the war over updog." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/exoplanet_high_5.png" alt="Tau Ceti is farther away, so it took me 36 years to start the war over updog." height=300 />
+<a id="xkcd-a" title="The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/physical_quantities.png" alt="The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy." height=300 />
 </a>
