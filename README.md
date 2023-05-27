@@ -47,6 +47,6 @@ Linux                    30 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/physical_quantities.png" alt="The Hubble length is about 1.9 meters lying down; Edwin Hubble was a tall guy." height=300 />
+<a id="xkcd-a" title="Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_six_platonic_solids.png" alt="Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others." height=300 />
 </a>
