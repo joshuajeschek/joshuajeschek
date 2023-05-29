@@ -47,6 +47,6 @@ Linux                    39 hrs 14 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_six_platonic_solids.png" alt="Plato made the solids, and five were gifted to the mathematicians. But in secret Plato forged a sixth solid to rule over all the others." height=300 />
+<a id="xkcd-a" title="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/wikipedia_article_titles.png" alt="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." height=300 />
 </a>
