@@ -47,6 +47,6 @@ Linux                    28 hrs 34 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/wikipedia_article_titles.png" alt="I would never stoop to vandalism, but I'm not above discreetly deleting the occasional 'this article contains excessive amounts of detail' tag." height=300 />
+<a id="xkcd-a" title="We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ruling_out.png" alt="We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence." height=300 />
 </a>
