@@ -47,6 +47,6 @@ Linux                    21 hrs 29 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ruling_out.png" alt="We were able to replicate and confirm prior authors' detection of a moon orbiting the Earth with high confidence." height=300 />
+<a id="xkcd-a" title="After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/drainage_basins.png" alt="After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume." height=300 />
 </a>
