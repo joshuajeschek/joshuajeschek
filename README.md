@@ -47,6 +47,6 @@ Linux                    12 hrs 25 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/drainage_basins.png" alt="After a pail of water was thrown on the Wicked Witch of the West outside Salt Lake City, Utah's Great Salt Lake was measured to be 7 parts per trillion witch by volume." height=300 />
+<a id="xkcd-a" title="I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/marble_run.png" alt="I have so many plans. It would incorporate a Galton board, a Ranque-Hilsch marble vortex tube, and a compartment lined with pinball bouncers with a camera-and-servo Maxwell's Demon that separated the balls into fast and slow sides." height=300 />
 </a>
