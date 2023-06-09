@@ -47,6 +47,6 @@ Linux                    15 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ufo_evidence.png" alt="[Decades in the future] "Well, the good news is that we've received definitive communication from aliens. The bad news is that they're asking about Cats (2019)."" height=300 />
+<a id="xkcd-a" title="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/iceberg.png" alt="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." height=300 />
 </a>
