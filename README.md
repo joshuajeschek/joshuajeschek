@@ -46,6 +46,6 @@ Linux                    6 hrs 50 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/iceberg.png" alt="90% of the iceberg is hidden beneath the water, but that 90% only uses 10% of its brain, so it's really only 9%." height=300 />
+<a id="xkcd-a" title="In the Hall of the Mountain King was accidentally composed on log/log paper." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/musical_scales.png" alt="In the Hall of the Mountain King was accidentally composed on log/log paper." height=300 />
 </a>
