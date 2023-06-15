@@ -47,6 +47,6 @@ Linux                    13 hrs 34 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="In the Hall of the Mountain King was accidentally composed on log/log paper." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/musical_scales.png" alt="In the Hall of the Mountain King was accidentally composed on log/log paper." height=300 />
+<a id="xkcd-a" title="Oh no, I haven't checked in with Yvonne in YEARS." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/making_plans.png" alt="Oh no, I haven't checked in with Yvonne in YEARS." height=300 />
 </a>
