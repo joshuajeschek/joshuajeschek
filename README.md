@@ -47,6 +47,6 @@ Linux                    19 hrs 58 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Oh no, I haven't checked in with Yvonne in YEARS." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/making_plans.png" alt="Oh no, I haven't checked in with Yvonne in YEARS." height=300 />
+<a id="xkcd-a" title="If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/heat_pump.png" alt="If I'm not going to upgrade to a powered one, I should at LEAST stop leaving the door open so often." height=300 />
 </a>
