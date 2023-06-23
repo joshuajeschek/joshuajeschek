@@ -47,6 +47,6 @@ Linux                    15 hrs 44 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/summer_solstice.png" alt="Then I'll start work on my lunar engines to line the Moon up with the ecliptic so we can have a solar eclipse every month (with a little wobble so they're not always on the equator.)" height=300 />
+<a id="xkcd-a" title="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/garden_path_sentence.png" alt="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" height=300 />
 </a>
