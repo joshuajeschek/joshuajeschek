@@ -47,6 +47,6 @@ Linux                    19 hrs 24 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/garden_path_sentence.png" alt="Arboretum Owner Denied Standing in Garden Path Suit on Grounds Grounds Appealing Appealing" height=300 />
+<a id="xkcd-a" title="Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/alphabet_notes.png" alt="Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!" height=300 />
 </a>
