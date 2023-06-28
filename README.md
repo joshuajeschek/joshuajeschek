@@ -47,6 +47,6 @@ Linux                    16 hrs 19 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/alphabet_notes.png" alt="Listen, you're very cute, but if you rearrange the alphabet to put U and I together it will RUIN the spacing!" height=300 />
+<a id="xkcd-a" title="You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/glass_topped_table.png" alt="You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward." height=300 />
 </a>
