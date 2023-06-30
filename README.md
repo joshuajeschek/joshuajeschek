@@ -47,6 +47,6 @@ Linux                    7 hrs 19 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/glass_topped_table.png" alt="You can pour a drink into it while hosting a party, although it's a real pain to fit in the dishwasher afterward." height=300 />
+<a id="xkcd-a" title="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/real_estate_analysis.png" alt="Mars does get a good score on 'noise levels' and 'scenic views,' but the school district ranking isn't great; the only teacher--the Perseverance rover--is too busy with rock samples to teach more than the occasional weekend class." height=300 />
 </a>
