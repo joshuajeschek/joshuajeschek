@@ -47,6 +47,6 @@ Linux                    17 hrs 28 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/actual_progress.png" alt="Slowly progressing from 'how do protons behave in relativistic collisions?' to 'what the heck are protons even doing when they're just sitting there?'" height=300 />
+<a id="xkcd-a" title="They're also refusing to fund my device that demonstrates uncontrolled hot fusion." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/room_temperature.png" alt="They're also refusing to fund my device that demonstrates uncontrolled hot fusion." height=300 />
 </a>
