@@ -47,6 +47,6 @@ Linux                    20 hrs 13 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/frankenstein_claim_permutations.png" alt="When I began trying to form a new claim by stitching together these parts in such an unnatural way, some called me mad." height=300 />
+<a id="xkcd-a" title="It's just that I get nervous about heights." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/down.png" alt="It's just that I get nervous about heights." height=300 />
 </a>
