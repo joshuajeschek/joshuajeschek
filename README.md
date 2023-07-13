@@ -47,6 +47,6 @@ Linux                    18 hrs 35 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's just that I get nervous about heights." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/down.png" alt="It's just that I get nervous about heights." height=300 />
+<a id="xkcd-a" title="I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/contact_merge.png" alt="I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack." height=300 />
 </a>
