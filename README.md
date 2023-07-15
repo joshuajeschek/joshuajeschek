@@ -47,6 +47,6 @@ Linux                    13 hrs 6 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/contact_merge.png" alt="I actually kind of feel like John and Surf King wouldn't like each other, which is a lot to unpack." height=300 />
+<a id="xkcd-a" title="I feel bad for Earth 2 and their shadowflies." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fireflies.png" alt="I feel bad for Earth 2 and their shadowflies." height=300 />
 </a>
