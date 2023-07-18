@@ -47,6 +47,6 @@ Linux                    8 hrs 49 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I feel bad for Earth 2 and their shadowflies." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fireflies.png" alt="I feel bad for Earth 2 and their shadowflies." height=300 />
+<a id="xkcd-a" title="The Atlantic is expanding at about 10 ppm (points per month)." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/geohydrotypography.png" alt="The Atlantic is expanding at about 10 ppm (points per month)." height=300 />
 </a>
