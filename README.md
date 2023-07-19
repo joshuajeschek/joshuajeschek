@@ -47,6 +47,6 @@ Linux                    5 hrs 56 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The Atlantic is expanding at about 10 ppm (points per month)." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/geohydrotypography.png" alt="The Atlantic is expanding at about 10 ppm (points per month)." height=300 />
+<a id="xkcd-a" title="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/marshmallow.png" alt="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." height=300 />
 </a>
