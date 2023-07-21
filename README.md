@@ -47,6 +47,6 @@ Linux                    10 hrs 48 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/marshmallow.png" alt="The increasing number of graham crackers and chocolate bars in orbit has created a growing risk of Kessler s'mores." height=300 />
+<a id="xkcd-a" title="Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/global_atmospheric_circulation.png" alt="Refs generally say that you can exercise enough altitude control to avoid the ground, but if you start strategically choosing air layers to steer yourself, that's traveling." height=300 />
 </a>
