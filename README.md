@@ -47,6 +47,6 @@ Linux                    34 hrs 54 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Positive vibes/longitudes only" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bad_map_projection_abs_longitude.png" alt="Positive vibes/longitudes only" height=300 />
+<a id="xkcd-a" title="Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/daytime_firefly.png" alt="Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!" height=300 />
 </a>
