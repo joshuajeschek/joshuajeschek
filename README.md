@@ -47,6 +47,6 @@ Linux                    40 hrs 52 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/daytime_firefly.png" alt="Mr. Jones, watch out for Ms. Lenhart! She's from genus Photuris!" height=300 />
+<a id="xkcd-a" title="I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/moon.png" alt="I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts." height=300 />
 </a>
