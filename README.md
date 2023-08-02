@@ -47,6 +47,6 @@ Linux                    47 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/moon.png" alt="I mean, it's pretty, but it doesn't really affect us beyond that. Except that half the nights aren't really dark, and once or twice a day it makes the oceans flood the coasts." height=300 />
+<a id="xkcd-a" title="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png" alt="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." height=300 />
 </a>
