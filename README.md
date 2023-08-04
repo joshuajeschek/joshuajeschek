@@ -47,6 +47,6 @@ Linux                    38 hrs 35 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/how_to_coil_a_cable.png" alt="The ideal mix for maximum competitive cable-coiling energy is one A/V tech, one rock climber, one sailor, and one topologist." height=300 />
+<a id="xkcd-a" title="Their crash investigation team had some particularly harsh words for Dave Matthews." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/free_fallin.png" alt="Their crash investigation team had some particularly harsh words for Dave Matthews." height=300 />
 </a>
