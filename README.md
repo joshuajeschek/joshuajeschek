@@ -47,6 +47,6 @@ Linux                    22 hrs 17 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Their crash investigation team had some particularly harsh words for Dave Matthews." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/free_fallin.png" alt="Their crash investigation team had some particularly harsh words for Dave Matthews." height=300 />
+<a id="xkcd-a" title="Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/solar_panel_placement.png" alt="Getting the utility people to run transmission lines to Earth is expensive, but it will pay for itself in no time." height=300 />
 </a>
