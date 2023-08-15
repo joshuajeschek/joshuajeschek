@@ -47,6 +47,6 @@ Linux                    2 hrs 36 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/perseids_pronunciation.png" alt="When speaking out loud, you can can call it the 'Perseids meatier shower' and no one will ever know. (If you do get caught somehow, just tell them to Google the 'Kentucky meat shower' and that will distract them while you escape.)" height=300 />
+<a id="xkcd-a" title="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/car_wash.png" alt="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." height=300 />
 </a>
