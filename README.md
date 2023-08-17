@@ -47,6 +47,6 @@ Linux                    5 hrs 30 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/car_wash.png" alt="I'm glad modern car washes use synthetic baleen, instead of harvesting it from whales like 1800s car washes did." height=300 />
+<a id="xkcd-a" title="The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/types_of_solar_eclipse.png" alt="The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface." height=300 />
 </a>
