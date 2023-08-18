@@ -47,6 +47,6 @@ Linux                    3 hrs 16 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/types_of_solar_eclipse.png" alt="The best place to be for a hug eclipse is a scenic natural area with good views and few clouds. The worst place to be is the lunar surface." height=300 />
+<a id="xkcd-a" title="They tried to report me to the authorities, but because I had the device they couldn't charge me." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electron_holes.png" alt="They tried to report me to the authorities, but because I had the device they couldn't charge me." height=300 />
 </a>
