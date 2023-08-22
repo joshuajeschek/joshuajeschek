@@ -47,6 +47,6 @@ Linux                    12 hrs 5 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They tried to report me to the authorities, but because I had the device they couldn't charge me." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electron_holes.png" alt="They tried to report me to the authorities, but because I had the device they couldn't charge me." height=300 />
+<a id="xkcd-a" title="A circle with an A in it means that the circuit has committed a sin and has been marked as punishment." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/circuit_symbols.png" alt="A circle with an A in it means that the circuit has committed a sin and has been marked as punishment." height=300 />
 </a>
