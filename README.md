@@ -47,6 +47,6 @@ Linux                    17 hrs 10 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A circle with an A in it means that the circuit has committed a sin and has been marked as punishment." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/circuit_symbols.png" alt="A circle with an A in it means that the circuit has committed a sin and has been marked as punishment." height=300 />
+<a id="xkcd-a" title="I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pronunciation.png" alt="I pronounce the 'u' in 'pronunciation' like in 'putting' but the 'ou' in 'pronounce' like in 'wound'." height=300 />
 </a>
