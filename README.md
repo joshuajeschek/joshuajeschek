@@ -47,6 +47,6 @@ Linux                    6 hrs 13 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Of course you get an ice cream cone for the swimmer too! You're not a monster." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/path_minimization.png" alt="Of course you get an ice cream cone for the swimmer too! You're not a monster." height=300 />
+<a id="xkcd-a" title="Hi all, just replying to loop in *@outlook.com and *@yahoo.com." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/gmail_com.png" alt="Hi all, just replying to loop in *@outlook.com and *@yahoo.com." height=300 />
 </a>
