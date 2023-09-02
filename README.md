@@ -47,6 +47,6 @@ Linux                    7 hrs 6 mins        ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Hi all, just replying to loop in *@outlook.com and *@yahoo.com." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/gmail_com.png" alt="Hi all, just replying to loop in *@outlook.com and *@yahoo.com." height=300 />
+<a id="xkcd-a" title="The two best reasons to get into fossils are booping trilobites and getting to say the word "fossiliferous" a lot." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fossil.png" alt="The two best reasons to get into fossils are booping trilobites and getting to say the word "fossiliferous" a lot." height=300 />
 </a>
