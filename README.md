@@ -47,6 +47,6 @@ Linux                    6 hrs 15 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Escape Artist Frees Self From Conversation With Pickup Artist" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/abstract_pickup.png" alt="Escape Artist Frees Self From Conversation With Pickup Artist" height=300 />
+<a id="xkcd-a" title="Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/autumn_and_fall.png" alt="Of course in reality this is just a US/UK thing; in British English, 'fall' is the brief period in between and 'autumn' is the main season." height=300 />
 </a>
