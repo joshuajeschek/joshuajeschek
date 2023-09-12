@@ -47,6 +47,6 @@ Linux                    7 hrs 38 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/gold.png" alt="It can be expensive to hire a professional spectroscopist for your wedding, but the quality of the spectra you get is worth it." height=300 />
+<a id="xkcd-a" title="Sequoia Brussels sprouts are delicious but it's pretty hard to finish one." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/brassica.png" alt="Sequoia Brussels sprouts are delicious but it's pretty hard to finish one." height=300 />
 </a>
