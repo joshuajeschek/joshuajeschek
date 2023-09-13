@@ -47,6 +47,6 @@ Linux                    8 hrs 48 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Sequoia Brussels sprouts are delicious but it's pretty hard to finish one." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/brassica.png" alt="Sequoia Brussels sprouts are delicious but it's pretty hard to finish one." height=300 />
+<a id="xkcd-a" title="NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/exoplanet_observation.png" alt="NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'" height=300 />
 </a>
