@@ -47,6 +47,6 @@ Linux                    6 hrs 49 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/exoplanet_observation.png" alt="NASA prefers to say that their rovers are 'looking for signs of past life on Mars' and not 'ghost hunting.'" height=300 />
+<a id="xkcd-a" title="Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/iceberg_efficiency.png" alt="Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners." height=300 />
 </a>
