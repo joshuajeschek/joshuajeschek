@@ -47,6 +47,6 @@ Linux                    8 hrs 15 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/iceberg_efficiency.png" alt="Our experimental aerogel iceberg with helium pockets manages true 100% efficiency, barely touching the water, and it can even lift off of the surface and fly to more efficiently pursue fleeing hubristic liners." height=300 />
+<a id="xkcd-a" title="You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/haunted_house.png" alt="You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit." height=300 />
 </a>
