@@ -47,6 +47,6 @@ Linux                    6 hrs 56 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/haunted_house.png" alt="You can leave at any time through the door over there. It's a Louisville door, so you'll need to find a compatible knob. No, don't be silly, that one is a Lexington knob! Of course it won't fit." height=300 />
+<a id="xkcd-a" title="Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/xkcd_phone_flip.png" alt="Theranos partnership: Sorry, we know, but we signed the contract back before all the stuff and the lawyers say we can't back out, so just try to keep your finger away from the bottom of the phone." height=300 />
 </a>
