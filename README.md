@@ -47,6 +47,6 @@ Linux                    3 hrs 54 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If they're going to make people ride bikes and scooters in traffic, then it should at LEAST be legal to do the Snow Crash thing where you use a hook-shot-style harpoon to catch free rides from cars." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/urban_planning_opinion_progression.png" alt="If they're going to make people ride bikes and scooters in traffic, then it should at LEAST be legal to do the Snow Crash thing where you use a hook-shot-style harpoon to catch free rides from cars." height=300 />
+<a id="xkcd-a" title="I was, at least at the start of this disastrous game night, your friend." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/lying.png" alt="I was, at least at the start of this disastrous game night, your friend." height=300 />
 </a>
