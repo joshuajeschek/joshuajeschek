@@ -47,6 +47,6 @@ Linux                    12 hrs 33 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/factorial_numbers.png" alt="So what do we do when we get to base 10? Do we use A, B, C, etc? No: Numbers larger than about 3.6 million are simply illegal." height=300 />
+<a id="xkcd-a" title="[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/a_halloween_carol.png" alt="[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"" height=300 />
 </a>
