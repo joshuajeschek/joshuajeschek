@@ -47,6 +47,6 @@ Linux                    6 hrs 46 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/a_halloween_carol.png" alt="[after a minute] "Okay, I think I've got it, thanks. Can I--" "oOOOooOOooo!"" height=300 />
+<a id="xkcd-a" title="Ugh, it says they attempted delivery but "Nobody was home."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/odyssey.png" alt="Ugh, it says they attempted delivery but "Nobody was home."" height=300 />
 </a>
