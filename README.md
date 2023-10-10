@@ -48,6 +48,6 @@ Linux                    20 hrs 57 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Running for office in Minnesota on the single-issue platform 'dig a permanent channel through the Traverse Gap because it will make this map more satisfying.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dubious_islands.png" alt="Running for office in Minnesota on the single-issue platform 'dig a permanent channel through the Traverse Gap because it will make this map more satisfying.'" height=300 />
+<a id="xkcd-a" title="My first words were 'These were my first words; what were yours?'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/language_acquisition.png" alt="My first words were 'These were my first words; what were yours?'" height=300 />
 </a>
