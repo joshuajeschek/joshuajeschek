@@ -47,6 +47,6 @@ Linux                    32 hrs 22 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Speed Limit: 45 MPH / Minimum: 65 MPH" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sign_combo.png" alt="Speed Limit: 45 MPH / Minimum: 65 MPH" height=300 />
+<a id="xkcd-a" title="Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/inspiraling_roundabout.png" alt="Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity." height=300 />
 </a>
