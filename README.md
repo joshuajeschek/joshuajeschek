@@ -41,6 +41,6 @@ Linux                    25 hrs 8 mins       ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/inspiraling_roundabout.png" alt="Look, I just think we need to stop coddling those hedonistic roundabout hogs who get into the inner lane and circle for hours, wasting valuable capacity." height=300 />
+<a id="xkcd-a" title="Interpretations of the Hermeneutic Oath differ." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/professional_oaths.png" alt="Interpretations of the Hermeneutic Oath differ." height=300 />
 </a>
