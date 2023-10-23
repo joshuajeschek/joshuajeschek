@@ -41,6 +41,6 @@ Linux                    20 hrs 42 mins      ███████████�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Created by the collapse of: [massive stars] [Florida limestone bedrock]" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/black_holes_vs_regular_holes.png" alt="Created by the collapse of: [massive stars] [Florida limestone bedrock]" height=300 />
+<a id="xkcd-a" title="The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/extinction_mechanisms.png" alt="The Late Heavy Bombardment was followed a few billion years later by the Comparatively Light but Oddly Specific Bombardment." height=300 />
 </a>
