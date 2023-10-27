@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/daylight_saving_choice.png" alt="I average out the spring and fall changes and just set my clocks 39 minutes ahead year-round." height=300 />
+<a id="xkcd-a" title="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dendrochronology.png" alt="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." height=300 />
 </a>
