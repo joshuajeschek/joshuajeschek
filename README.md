@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dendrochronology.png" alt="These anomalies are known as Miyake events, named for the pioneering scientist who discovered them and was tragically devoured by a carnivorous tree." height=300 />
+<a id="xkcd-a" title="Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/breaker_box.png" alt="Any electrician will warn you to first locate and flip the house's CAUSALITY circuit breaker before touching the CIRCUIT BREAKERS one." height=300 />
 </a>
