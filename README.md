@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/doctors_office.png" alt=""The police told me I can't be a doctor, but whenever they show up I just go into the Google Maps settings page I found and change the house to 'Police Headquarters' and then they have to do what I say."" height=300 />
+<a id="xkcd-a" title="The debate over the correct Messier number for the Ship of Theseus is ongoing." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/messier_objects.png" alt="The debate over the correct Messier number for the Ship of Theseus is ongoing." height=300 />
 </a>
