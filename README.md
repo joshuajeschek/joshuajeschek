@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/parameterball.png" alt="The ball's density also varies, but players don't learn the value until after choosing their raquets. The infamous 'bowling ball table tennis' region of the parameter space often leads to equipment damage." height=300 />
+<a id="xkcd-a" title="So do you have any plans for z=-0.000000000000045?" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/redshift.png" alt="So do you have any plans for z=-0.000000000000045?" height=300 />
 </a>
