@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="So do you have any plans for z=-0.000000000000045?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/redshift.png" alt="So do you have any plans for z=-0.000000000000045?" height=300 />
+<a id="xkcd-a" title="They estimate the rocket should be free by approximately ... uh ... well, in about two hours." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/date_line.png" alt="They estimate the rocket should be free by approximately ... uh ... well, in about two hours." height=300 />
 </a>
