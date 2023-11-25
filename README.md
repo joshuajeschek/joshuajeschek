@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/thanksgiving_arguments.png" alt="An occasional source of mild Thanksgiving tension in my family is that my mother is a die-hard fan of The Core (2003), and various family members sometimes have differing levels of enthusiasm for her annual tradition of watching it." height=300 />
+<a id="xkcd-a" title="Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/oceanography_gift.png" alt="Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents." height=300 />
 </a>
