@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/oceanography_gift.png" alt="Shipping times vary. Same-ocean delivery may only take a few years, but delivery from the Weddell Sea in Antarctica may take multiple decades, and molecules meant for inland seas like the Mediterranean may be returned as undeliverable by surface currents." height=300 />
+<a id="xkcd-a" title="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/decay_modes.png" alt="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." height=300 />
 </a>
