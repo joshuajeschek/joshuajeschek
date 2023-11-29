@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/decay_modes.png" alt="Unlike an Iron Age collapse, a Bronze Age collapse releases energy, since copper and tin are past the iron peak on the curve of binding energy." height=300 />
+<a id="xkcd-a" title="The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/x_value.png" alt="The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories." height=300 />
 </a>
