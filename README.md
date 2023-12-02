@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/x_value.png" alt="The value of n is still unknown, but new results constrain it to fall between 8 and 10^500, ruling out popular 'n=1' and 'n=2' theories." height=300 />
+<a id="xkcd-a" title="Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/typical_seating_chart.png" alt="Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole." height=300 />
 </a>
