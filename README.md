@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/typical_seating_chart.png" alt="Now that airlines have started adding wheel locks to their drink carts, less than half of flights have one accidentally fall out through the hole." height=300 />
+<a id="xkcd-a" title="And over heeee[...]eeeere (i)s Saturn." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/space_typography.png" alt="And over heeee[...]eeeere (i)s Saturn." height=300 />
 </a>
