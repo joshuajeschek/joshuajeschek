@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="And over heeee[...]eeeere (i)s Saturn." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/space_typography.png" alt="And over heeee[...]eeeere (i)s Saturn." height=300 />
+<a id="xkcd-a" title="People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/compact_graphs.png" alt="People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them." height=300 />
 </a>
