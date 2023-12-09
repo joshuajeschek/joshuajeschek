@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/compact_graphs.png" alt="People may complain about readability, but even with jpeg compression, extracting the data points is usually computationally feasible if there aren't too many of them." height=300 />
+<a id="xkcd-a" title="The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_wrong_stuff.png" alt="The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction." height=300 />
 </a>
