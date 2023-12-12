@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_wrong_stuff.png" alt="The phantom found Edward Everett Hale a century too early; by the time we invented satellites, the specifics of his 'brick moon' proposal were dismissed as science fiction." height=300 />
+<a id="xkcd-a" title="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/snow.png" alt="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." height=300 />
 </a>
