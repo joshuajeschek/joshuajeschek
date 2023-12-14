@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/snow.png" alt="For someone who has ostensibly outgrown staying up late waiting for Santa, I do spend an awful lot of time refreshing websites to see if packages are here yet." height=300 />
+<a id="xkcd-a" title="It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/datetime.png" alt="It's not just time zones and leap seconds. SI seconds on Earth are slower because of relativity, so there are time standards for space stuff (TCB, TGC) that use faster SI seconds than UTC/Unix time. T2 - T1 = [God doesn't know and the Devil isn't telling.]" height=300 />
 </a>
