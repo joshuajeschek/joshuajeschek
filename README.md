@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Even with a blank map, a lot of people can only name 45-50 of the 64 states." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/label_the_states.png" alt="Even with a blank map, a lot of people can only name 45-50 of the 64 states." height=300 />
+<a id="xkcd-a" title="Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/puzzles.png" alt="Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?" height=300 />
 </a>
