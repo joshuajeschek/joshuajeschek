@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/puzzles.png" alt="Why couldn't the amulet have been hidden by Aunt Alice, who understands modern key exchange algorithms?" height=300 />
+<a id="xkcd-a" title="The Piña Colada song carves a trajectory across the chart over the course of the song." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/love_songs.png" alt="The Piña Colada song carves a trajectory across the chart over the course of the song." height=300 />
 </a>
