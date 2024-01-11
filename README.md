@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/definitely.png" alt="A really mean prank you can play on someone who's picky about words is to add a 'definitely->definitively' autocorrect rule to their keyboard." height=300 />
+<a id="xkcd-a" title="Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fever.png" alt="Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star." height=300 />
 </a>
