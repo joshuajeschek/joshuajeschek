@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fever.png" alt="Hypothermia of below 98.6 K should be treated by leaving the giant molecular cloud and moving to the vicinity of a star." height=300 />
+<a id="xkcd-a" title="A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/like_this_one.png" alt="A lot of sentences undergo startling shifts in mood if you add 'like this one' to the end, but high on the list is 'I'm a neurologist studying dreams.'" height=300 />
 </a>
