@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A left-handed sheet bend creates a much weaker connection, especially under moderate loads." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sheet_bend.png" alt="A left-handed sheet bend creates a much weaker connection, especially under moderate loads." height=300 />
+<a id="xkcd-a" title="After some account issues, we've added 6 new people from the beach house rental website support forum." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bug_thread.png" alt="After some account issues, we've added 6 new people from the beach house rental website support forum." height=300 />
 </a>
