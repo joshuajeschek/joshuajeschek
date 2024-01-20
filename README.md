@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/net_rotations.png" alt="For decades I've been working off the accumulated rotation from one long afternoon on a merry-go-round when I was eight." height=300 />
+<a id="xkcd-a" title="They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/astronaut_guests.png" alt="They didn't bring us a gift, but considering the kinetic energy of a bottle of wine at orbital speed, that's probably for the best." height=300 />
 </a>
