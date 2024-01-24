@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A video can have a log scale that's misaligned with both the time AND space axes." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/log_alignment.png" alt="A video can have a log scale that's misaligned with both the time AND space axes." height=300 />
+<a id="xkcd-a" title="Any time I misspell a word it's just because I have too much integrity to copy answers from the dictionary." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/spelling.png" alt="Any time I misspell a word it's just because I have too much integrity to copy answers from the dictionary." height=300 />
 </a>
