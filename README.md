@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Dr. Petroff has also shown that the Higgs boson signal was actually sparks from someone microwaving grapes, the EHT black hole photo was a frozen bagel someone left in too long, and the LIGO detection was just someone slamming the microwave door too hard." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fast_radio_bursts.png" alt="Dr. Petroff has also shown that the Higgs boson signal was actually sparks from someone microwaving grapes, the EHT black hole photo was a frozen bagel someone left in too long, and the LIGO detection was just someone slamming the microwave door too hard." height=300 />
+<a id="xkcd-a" title="In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/minnesota.png" alt="In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states." height=300 />
 </a>
