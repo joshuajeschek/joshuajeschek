@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/minnesota.png" alt="In addition to 'squishy', after reviewing my submitted intraplate ground motion data, the National Geodetic Survey has politely asked me to stop using the word 'supple' so often when describing Midwestern states." height=300 />
+<a id="xkcd-a" title="Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/us_survey_foot.png" alt="Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!" height=300 />
 </a>
