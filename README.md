@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/us_survey_foot.png" alt="Subway refuses to answer my questions about whether it's an International Footlong or a US Survey Footlong. A milligram of sandwich is at stake!" height=300 />
+<a id="xkcd-a" title="Once he had the answer, Arrhenius complained to his friends that he'd "wasted over a full year" doing tedious calculations by hand about "so trifling a matter" as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997)." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/greenhouse_effect.png" alt="Once he had the answer, Arrhenius complained to his friends that he'd "wasted over a full year" doing tedious calculations by hand about "so trifling a matter" as hypothetical CO2 concentrations in far-off eras (quoted in Crawford, 1997)." height=300 />
 </a>
