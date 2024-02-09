@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I'm sure the building inspectors will approve my design once they finally manage to escape." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/log_cabin.png" alt="I'm sure the building inspectors will approve my design once they finally manage to escape." height=300 />
+<a id="xkcd-a" title="It's a linear extrapolation, Michael. How big could the error be? 10%?" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/banana_prices.png" alt="It's a linear extrapolation, Michael. How big could the error be? 10%?" height=300 />
 </a>
