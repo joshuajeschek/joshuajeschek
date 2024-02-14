@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sphere_tastiness.png" alt="Baseballs do present a challenge to this theory, but I'm convinced we just haven't found the right seasoning." height=300 />
+<a id="xkcd-a" title="Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/research_account.png" alt="Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO" height=300 />
 </a>
