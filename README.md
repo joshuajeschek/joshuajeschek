@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/research_account.png" alt="Focus of your research: EXTREME PETTINESS AND UNWILLINGNESS TO LET ANYTHING GO" height=300 />
+<a id="xkcd-a" title="[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/treasure_chests.png" alt="[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."" height=300 />
 </a>
