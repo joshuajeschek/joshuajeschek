@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/treasure_chests.png" alt="[earlier] "Your vintage-style handmade chest business is struggling. But I have a plan."" height=300 />
+<a id="xkcd-a" title="Also, we would really appreciate it if you could prominently refer to it as an 'eHit'." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/crossword_constructors.png" alt="Also, we would really appreciate it if you could prominently refer to it as an 'eHit'." height=300 />
 </a>
