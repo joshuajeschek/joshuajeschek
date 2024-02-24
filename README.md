@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/light_leap_years.png" alt="When Pope Gregory XIII briefly shortened the light-year in 1582, it led to navigational chaos and the loss of several Papal starships." height=300 />
+<a id="xkcd-a" title=""Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/orbital_argument.png" alt=""Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"" height=300 />
 </a>
