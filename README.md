@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/orbital_argument.png" alt=""Some people say light is waves, and some say it's particles, so I bet light is some in-between thing that's both wave and particle depending on how you look at it. Am I right?" "YES, BUT YOU SHOULDN'T BE!"" height=300 />
+<a id="xkcd-a" title="[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/goodharts_law.png" alt="[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour." height=300 />
 </a>
