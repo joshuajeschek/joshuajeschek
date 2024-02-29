@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/goodharts_law.png" alt="[later] I'm pleased to report we're now identifying and replacing hundreds of outdated metrics per hour." height=300 />
+<a id="xkcd-a" title="'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/call_my_cell.png" alt="'Hey, can you call my cell?' '...I'm trying, but it says this number is blocked?' 'Ok, thanks, just checking.'" height=300 />
 </a>
