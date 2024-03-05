@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/geographic_qualifiers.png" alt="'Thank you for the loveliest evening I've ever had...' [normal] '...east of the Mississippi.' [instant intrigue!]" height=300 />
+<a id="xkcd-a" title="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ice_core.png" alt="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." height=300 />
 </a>
