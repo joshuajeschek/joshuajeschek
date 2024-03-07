@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ice_core.png" alt="If you find an ash deposition layer from a year in which an eruption destroyed an island that had Camellia sinensis growing on it, you can make a Gone Island Ice_τ." height=300 />
+<a id="xkcd-a" title="Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/earth_venus_venn_diagram.png" alt="Actually, the fact that Mars is still orbiting safely over here means that it was technically an *Euler* apocalypse, not a Venn one." height=300 />
 </a>
