@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I love their cover of 1,200 Balloons, Dalmatians, and Miles." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/supergroup.png" alt="I love their cover of 1,200 Balloons, Dalmatians, and Miles." height=300 />
+<a id="xkcd-a" title="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/earth.png" alt="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." height=300 />
 </a>
