@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/earth.png" alt="Just think of all the countless petty squabbles and misunderstandings, of all the fervent hatreds, over so insignificant a thing as the direction and duration of a rocket engine firing." height=300 />
+<a id="xkcd-a" title="Doug's cousin, the one from London, runs a Bumble love cult." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/schwa.png" alt="Doug's cousin, the one from London, runs a Bumble love cult." height=300 />
 </a>
