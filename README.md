@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Doug's cousin, the one from London, runs a Bumble love cult." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/schwa.png" alt="Doug's cousin, the one from London, runs a Bumble love cult." height=300 />
+<a id="xkcd-a" title="Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/moon_armor_index.png" alt="Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor." height=300 />
 </a>
