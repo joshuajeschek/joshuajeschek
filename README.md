@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/moon_armor_index.png" alt="Astronomers are a little unsure of the applicability of this index, but NASA's Planetary Protection Officer is all in favor." height=300 />
+<a id="xkcd-a" title="If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/moon_landing_mission_profiles.png" alt="If you pick a low enough orbit, it gives you a lot of freedom to use a lightweight launch vehicle such as a stepladder." height=300 />
 </a>
