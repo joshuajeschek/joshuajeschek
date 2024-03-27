@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/greenland_size.png" alt="The Mercator projection drastically distorts the size of almost every area of land except a small ring around the North and South Poles." height=300 />
+<a id="xkcd-a" title="𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/greenland_size.png" alt="𝓘 𝓽𝓱𝓲𝓷𝓴 𝓬𝓪𝓹𝓲𝓽𝓪𝓵 𝓛 𝓲𝓼 𝓹𝓻𝓸𝓫𝓪𝓫𝓵𝔂 𝓽𝓱𝓮 𝓶𝓸𝓼𝓽 𝓯𝓾𝓷 𝓽𝓸 𝔀𝓻𝓲𝓽𝓮, 𝓽𝓱𝓸𝓾𝓰𝓱 𝓵𝓸𝔀𝓮𝓻𝓬𝓪𝓼𝓮 𝓺 𝓲𝓼 𝓪𝓵𝓼𝓸 𝓪 𝓼𝓽𝓻𝓸𝓷𝓰 𝓬𝓸𝓷𝓽𝓮𝓷𝓭𝓮𝓻." height=300 />
 </a>
