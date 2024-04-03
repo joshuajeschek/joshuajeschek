@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/eclipse_coolness.png" alt="A partial eclipse is like a cool sunset. A total eclipse is like someone broke the sky." height=300 />
+<a id="xkcd-a" title="The rare compound solar-lunar-nephelogical eclipse" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/eclipse_clouds.png" alt="The rare compound solar-lunar-nephelogical eclipse" height=300 />
 </a>
