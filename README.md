@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The rare compound solar-lunar-nephelogical eclipse" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/eclipse_clouds.png" alt="The rare compound solar-lunar-nephelogical eclipse" height=300 />
+<a id="xkcd-a" title="The Credible Machine" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/machine.png" alt="The Credible Machine" height=300 />
 </a>
