@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/types_of_eclipse_photo.png" alt="The most rare, top-tier eclipse photo would be the Solar Earth Eclipse, but the Apollo 12 crew's attempt to capture it was marred by camera shake. They said it looked spectacular, though." height=300 />
+<a id="xkcd-a" title="If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tick_marks.png" alt="If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset." height=300 />
 </a>
