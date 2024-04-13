@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tick_marks.png" alt="If you're really savvy, you can hide an entire set of illicit transactions by timing them to draw what looks like a graph inset." height=300 />
+<a id="xkcd-a" title="First comes blood / Then we perish / Then comes Death in his Eternity Carriage." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sitting_in_a_tree.png" alt="First comes blood / Then we perish / Then comes Death in his Eternity Carriage." height=300 />
 </a>
