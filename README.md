@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Fun fact: The standard North American NAD83 coordinate system is misaligned from the actual Earth, off-center by about 7 feet. Someone knows where I am, and I'm in the wrong place." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/survey_marker.png" alt="Fun fact: The standard North American NAD83 coordinate system is misaligned from the actual Earth, off-center by about 7 feet. Someone knows where I am, and I'm in the wrong place." height=300 />
+<a id="xkcd-a" title="Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot..." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/eclipse_path_maps.png" alt="Okay, this eclipse will only be visible from the Arctic in February 2063, when the sun is below the horizon, BUT if we get lucky and a gigantic chasm opens in the Earth in just the right spot..." height=300 />
 </a>
