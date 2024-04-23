@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or 'the EU') (e) Greater London" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pub_trivia.png" alt="Bonus question: Where is London located? (a) The British Isles (b) Great Britain and Northern Ireland (c) The UK (d) Europe (or 'the EU') (e) Greater London" height=300 />
+<a id="xkcd-a" title="Concealed mostly beneath the surface, sharks are the icebergs of the sea." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/scary_triangles.png" alt="Concealed mostly beneath the surface, sharks are the icebergs of the sea." height=300 />
 </a>
