@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/doppler_effect.png" alt="The Doppler effect is a mysterious wavelength-shifting phenomenon which seems to primarily affect sirens, which is why the 🚨 emoji is red." height=300 />
+<a id="xkcd-a" title="Poor Weeoming." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png" alt="Poor Weeoming." height=300 />
 </a>
