@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Poor Weeoming." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/alphabetical_cartogram.png" alt="Poor Weeoming." height=300 />
+<a id="xkcd-a" title="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/software_testing_day.png" alt="The company tried to document how often employees were celebrating Software Testing Day, but their recordkeeping system kept mysteriously crashing." height=300 />
 </a>
