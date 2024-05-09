@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/good_and_bad_ideas.png" alt="While it seemed like a fun prank at the time, I realize my prank fire extinguishers full of leaded gasoline were a mistake." height=300 />
+<a id="xkcd-a" title="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/google_solar_cycle.png" alt="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." height=300 />
 </a>
