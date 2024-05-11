@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/google_solar_cycle.png" alt="From Google Trends, it looks like the lag between people Googling cocktail recipes and 'hangover cure' is 14 hours." height=300 />
+<a id="xkcd-a" title="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chasing.png" alt="Certain hybrid events can only happen in certain locations where all the conditions are present; chasers flock to the area in and around Kansas known as tumbleweed-colliding-with-possum alley." height=300 />
 </a>
