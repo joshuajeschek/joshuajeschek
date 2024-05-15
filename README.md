@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/driving_psa.png" alt="This PSA brought to you by several would-be assassins who tried to wave me in front of speeding cars in the last month and who will have to try harder next time." height=300 />
+<a id="xkcd-a" title="==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/elementary_physics_paths.png" alt="==COSMOLOGY==> 'Uhhh ... how sure are we that everything is made of these?'" height=300 />
 </a>
