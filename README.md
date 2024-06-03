@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/modes_of_transportation.png" alt="My bold criticism might anger the hot air balloon people, which would be a real concern if any of them lived along a very narrow line directly upwind of me." height=300 />
+<a id="xkcd-a" title="It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cell_organelles.png" alt="It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus." height=300 />
 </a>
