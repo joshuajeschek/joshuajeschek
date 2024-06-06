@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cell_organelles.png" alt="It's believed that Golgi was originally an independent organism who was eventually absorbed into our cells, where he began work on his Apparatus." height=300 />
+<a id="xkcd-a" title="Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fluid_speech.png" alt="Thank you to linguist Gretchen McCulloch for teaching me about phonetic assimilation, and for teaching me that if you stand around in public reading texts from a linguist and murmuring example phrases to yourself, people will eventually ask if you're okay." height=300 />
 </a>
