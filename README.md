@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/unsolved_chemistry_problems.png" alt="I'm an H⁺ denier, in that I refuse to consider loose protons to be real hydrogen, so I personally believe it stands for 'pretend'." height=300 />
+<a id="xkcd-a" title="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/magnet_fishing.png" alt="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." height=300 />
 </a>
