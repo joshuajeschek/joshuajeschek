@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/magnet_fishing.png" alt="The ten-way tie was judged a ten-way tie, so no one won the grand prize, a rare fishing monopole." height=300 />
+<a id="xkcd-a" title="In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/broken_model.png" alt="In addition to eating foxes, rabbits can eat grass. The grass also eats foxes. Our equations chart the contours of Fox Hell." height=300 />
 </a>
