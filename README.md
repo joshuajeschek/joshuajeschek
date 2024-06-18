@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Oh yeah? Give me 50 milliscore reasons why I should stop.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/1_2_kilofives.png" alt="'Oh yeah? Give me 50 milliscore reasons why I should stop.'" height=300 />
+<a id="xkcd-a" title="In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pascals_wager_triangle.png" alt="In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case." height=300 />
 </a>
