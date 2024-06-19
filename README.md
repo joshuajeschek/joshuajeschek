@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pascals_wager_triangle.png" alt="In contrast to Pascal's Wager Triangle, Pascal's Triangle Wager argues that maybe God wants you to draw a triangle of numbers where each one is the sum of the two numbers above it, so you probably should, just in case." height=300 />
+<a id="xkcd-a" title="An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electric_vs_gas.png" alt="An idling gas engine may be annoyingly loud, but that's the price you pay for having WAY less torque available at a standstill." height=300 />
 </a>
