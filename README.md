@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/network_configuration.png" alt="If you repeatedly rerun the development of technological civilization, it turns out that for some reason the only constant is that there is always a networking utility called 'netcat', though it does a different thing in each one." height=300 />
+<a id="xkcd-a" title="We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/situation.png" alt="We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone." height=300 />
 </a>
