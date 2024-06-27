@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/situation.png" alt="We're right under the flight path for the scheduled orbital launch, but don't worry--it's too cold out for the rockets to operate safely, so I'm sure they'll postpone." height=300 />
+<a id="xkcd-a" title="Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png" alt="Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge." height=300 />
 </a>
