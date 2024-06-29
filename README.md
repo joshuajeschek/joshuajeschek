@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bad_map_projection_exterior_kansas.png" alt="Although Kansas is widely thought to contain the geographic center of the contiguous 48 states, topologists now believe that it's actually their outer edge." height=300 />
+<a id="xkcd-a" title="The worst was the time they accidentally held the can upside down and froze all the Earth's magma chambers solid." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/routine_maintenance.png" alt="The worst was the time they accidentally held the can upside down and froze all the Earth's magma chambers solid." height=300 />
 </a>
