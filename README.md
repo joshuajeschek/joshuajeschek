@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="’"‘”’" means "I edited this text on both my phone and my laptop before sending it"" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bracket_symbols.png" alt="’"‘”’" means "I edited this text on both my phone and my laptop before sending it"" height=300 />
+<a id="xkcd-a" title="Ugh, and we JUST went through this yesterday with javelin." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pole_vault.png" alt="Ugh, and we JUST went through this yesterday with javelin." height=300 />
 </a>
