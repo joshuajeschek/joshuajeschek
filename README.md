@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Ugh, and we JUST went through this yesterday with javelin." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pole_vault.png" alt="Ugh, and we JUST went through this yesterday with javelin." height=300 />
+<a id="xkcd-a" title="Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/number_line_branch.png" alt="Attention all passengers: This is an express sequence to infinity. If your stop is not a power of two, please disembark now." height=300 />
 </a>
