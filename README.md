@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality]." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/a_crossword_puzzle.png" alt="Hint: If you ever encounter this puzzle in a crossword app, just [term for someone with a competitive and high-achieving personality]." height=300 />
+<a id="xkcd-a" title="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/hatchery.png" alt="Anadromous fish are more vulnerable in rivers, since the lack of salt means you can quickly crack passwords using rainbow trout tables." height=300 />
 </a>
