@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/beam_of_light.png" alt="Einstein's theories solved a longstanding mystery about Mercury: Why it gets so hot. "It's because," he pointed out, "the sun is right there."" height=300 />
+<a id="xkcd-a" title="IMO the thymus is one of the coolest organs and we should really use it in metaphors more." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/organ_meanings.png" alt="IMO the thymus is one of the coolest organs and we should really use it in metaphors more." height=300 />
 </a>
