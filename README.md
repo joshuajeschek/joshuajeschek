@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="IMO the thymus is one of the coolest organs and we should really use it in metaphors more." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/organ_meanings.png" alt="IMO the thymus is one of the coolest organs and we should really use it in metaphors more." height=300 />
+<a id="xkcd-a" title="We were going to try swordfighting, but all my compiling is on hold." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/crowdstrike.png" alt="We were going to try swordfighting, but all my compiling is on hold." height=300 />
 </a>
