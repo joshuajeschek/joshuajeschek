@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/house_inputs_and_outputs.png" alt="People think power over ethernet is so great, and yet when I try to do water over ethernet everyone yells at me." height=300 />
+<a id="xkcd-a" title="Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/olympic_sports.png" alt="Thankfully for everyone involved, the Winter Olympics officials spotted me and managed to stop me before I got to the ski jump." height=300 />
 </a>
