@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chili_tornado_quake.png" alt="Buildings constructed from softer materials were damaged by chili pepper impacts to the storm's high Richter-Fujita-Scoville-Mohs hardness rating." height=300 />
+<a id="xkcd-a" title="Calligraphy exam: Write down the number 37, spelled out, nicely." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/exam_numbers.png" alt="Calligraphy exam: Write down the number 37, spelled out, nicely." height=300 />
 </a>
