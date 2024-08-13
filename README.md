@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/meteor_shower_psa.png" alt="If you hold the meteor too long, it may imprint on you and form a contact binary, making reintroduction to space difficult." height=300 />
+<a id="xkcd-a" title="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/celestial_event.png" alt="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." height=300 />
 </a>
