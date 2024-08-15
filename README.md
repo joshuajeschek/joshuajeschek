@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/celestial_event.png" alt="If we can get a brood of 13-year cicadas going, we might have a chance at making this happen before the oceans evaporate under the expanding sun." height=300 />
+<a id="xkcd-a" title="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/helium_synthesis.png" alt="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." height=300 />
 </a>
