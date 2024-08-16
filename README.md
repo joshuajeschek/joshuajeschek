@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/helium_synthesis.png" alt="Our lawyers were worried because it turns out the company inherits its debt from the parent universe, but luckily cosmic inflation reduced it to nearly zero." height=300 />
+<a id="xkcd-a" title="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ferris_wheels.png" alt="They left the belt drive in place but switched which wheel was powered, so people could choose between a regular ride, a long ride, and a REALLY long ride." height=300 />
 </a>
