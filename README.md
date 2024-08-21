@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/storage_tanks.png" alt="We're considering installing a pressurization system to keep the tanks at constant pressure solely to deter them." height=300 />
+<a id="xkcd-a" title="Personally I think mercury is more of a 'wet earth' hybrid element." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/classical_periodic_table.png" alt="Personally I think mercury is more of a 'wet earth' hybrid element." height=300 />
 </a>
