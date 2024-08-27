@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/time_traveler_causes_of_death.png" alt="Many a hungry time traveler has Googled 'trilobites shellfish allergy' only to find their carrier had no coverage in the Ordovician." height=300 />
+<a id="xkcd-a" title="The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/three_kinds_of_research.png" alt="The secret fourth kind is 'we applied a standard theory to their map of every tree and got some suspicious results.'" height=300 />
 </a>
