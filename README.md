@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="At least they're not alone down there." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/stranded.png" alt="At least they're not alone down there." height=300 />
+<a id="xkcd-a" title="During the day it also activates for neat clouds and pretty sunsets." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sky_alarm.png" alt="During the day it also activates for neat clouds and pretty sunsets." height=300 />
 </a>
