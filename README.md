@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="During the day it also activates for neat clouds and pretty sunsets." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sky_alarm.png" alt="During the day it also activates for neat clouds and pretty sunsets." height=300 />
+<a id="xkcd-a" title="Hey, golf balls float on lava, so this should make recovering them from the hazards easier." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/lava_lakes.png" alt="Hey, golf balls float on lava, so this should make recovering them from the hazards easier." height=300 />
 </a>
