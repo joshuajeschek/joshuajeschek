@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/slingshots.png" alt="In my reboot, Dennis the Menace was just trying to send Mr. Wilson a nice comet, but accidentally wiped out his dinosaur garden." height=300 />
+<a id="xkcd-a" title="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/water_filtration.png" alt="You'd think the most expensive part would be the quark-gluon plasma chamber, but it's actually usually the tube to the top of the atmosphere to carry the cosmic rays down." height=300 />
 </a>
