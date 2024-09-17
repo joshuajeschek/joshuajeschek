@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/craters.png" alt="It's annoying that the Nastapoka Arc isn't a meteor impact crater, but I truly believe that--with enough time, effort, and determination--we could make it one." height=300 />
+<a id="xkcd-a" title="Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/every_scientific_field.png" alt="Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps." height=300 />
 </a>
