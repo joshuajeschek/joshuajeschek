@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/every_scientific_field.png" alt="Conveniently for everyone, it turns out that dark energy is produced by subterranean parasitoid wasps." height=300 />
+<a id="xkcd-a" title="The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tectonic_surfing.png" alt="The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you." height=300 />
 </a>
