@@ -46,6 +46,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tectonic_surfing.png" alt="The worst is when you wipe out in the barrel and you're trapped for several million years until erosion frees you." height=300 />
+<a id="xkcd-a" title="The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/maslows_pyramid.png" alt="The local police, building inspector, and fire marshal are all contesting my 'safety' assertion, or would be if they could reach me past all the traps." height=300 />
 </a>
