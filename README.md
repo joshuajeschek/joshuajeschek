@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cidabm.png" alt="There's a heated debate over whether the big island of Tierra del Fuego should qualify for membership." height=300 />
+<a id="xkcd-a" title="If any of you want to meet some cool local oxygen atoms, I can introduce you!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/solar_protons.png" alt="If any of you want to meet some cool local oxygen atoms, I can introduce you!" height=300 />
 </a>
