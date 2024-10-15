@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If any of you want to meet some cool local oxygen atoms, I can introduce you!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/solar_protons.png" alt="If any of you want to meet some cool local oxygen atoms, I can introduce you!" height=300 />
+<a id="xkcd-a" title="It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ravioli_shaped_objects.png" alt="It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond." height=300 />
 </a>
