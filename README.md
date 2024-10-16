@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ravioli_shaped_objects.png" alt="It's a real accomplishment to mess up a ravioli recipe badly enough that the resulting incident touches all four quadrants of the NFPA hazard diamond." height=300 />
+<a id="xkcd-a" title="This projection distorts both area and direction, but preserves Melbourne." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png" alt="This projection distorts both area and direction, but preserves Melbourne." height=300 />
 </a>
