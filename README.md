@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This projection distorts both area and direction, but preserves Melbourne." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bad_map_projection_the_united_stralia.png" alt="This projection distorts both area and direction, but preserves Melbourne." height=300 />
+<a id="xkcd-a" title="Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/experimental_astrophysics.png" alt="Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle." height=300 />
 </a>
