@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/experimental_astrophysics.png" alt="Our experiment will be expensive, but we believe it will produce important spin-offs, especially if we manage to hit the sun from the right angle." height=300 />
+<a id="xkcd-a" title="In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/temperature_scales.png" alt="In my new scale, °X, 0 is Earths' record lowest surface temperature, 50 is the global average, and 100 is the record highest, with a linear scale between each point and adjustment every year as needed." height=300 />
 </a>
