@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/rnaworld.png" alt="Disney lore: Canonically, because of how Elsa's abiogenesis powers work, Olaf is an RNA-only organism." height=300 />
+<a id="xkcd-a" title="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sandwich_helix.png" alt="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." height=300 />
 </a>
