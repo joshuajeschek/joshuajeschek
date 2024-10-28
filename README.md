@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sandwich_helix.png" alt="The number one rule of string manipulation is that youâ€™ve got to specify your encodings." height=300 />
+<a id="xkcd-a" title="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/wells.png" alt="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." height=300 />
 </a>
