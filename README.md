@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/wells.png" alt="You do have to be careful, though--sometimes, instead of water, you hit this free fuel that you can sell for a lot of money instead." height=300 />
+<a id="xkcd-a" title="We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/disposal.png" alt="We were disappointed that the rocket didn't make a THOOOONK noise when it went into the tube, but we're setting up big loudspeakers for future launches to add the sound effect." height=300 />
 </a>
