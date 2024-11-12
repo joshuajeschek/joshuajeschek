@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/number_shortage.png" alt=""10 minutes ago we were down to only 2 0s!" "How many do we have now?" "I ... don't know!!"" height=300 />
+<a id="xkcd-a" title="There's a maximum likelihood that I'm doing phylogenetics wrong." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" alt="There's a maximum likelihood that I'm doing phylogenetics wrong." height=300 />
 </a>
