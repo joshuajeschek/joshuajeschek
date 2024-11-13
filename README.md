@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="There's a maximum likelihood that I'm doing phylogenetics wrong." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/geometriphylogenetics.png" alt="There's a maximum likelihood that I'm doing phylogenetics wrong." height=300 />
+<a id="xkcd-a" title="They had BETTER make this a sample return mission." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/europa_clipper.png" alt="They had BETTER make this a sample return mission." height=300 />
 </a>
