@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They had BETTER make this a sample return mission." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/europa_clipper.png" alt="They had BETTER make this a sample return mission." height=300 />
+<a id="xkcd-a" title="Dinosaur Cosmics" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_future_of_orion.png" alt="Dinosaur Cosmics" height=300 />
 </a>
