@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/arizona_chess.png" alt="Sometimes, you have to sacrifice pieces to gain the advantage. Sometimes, to advance ... you have to fall back." height=300 />
+<a id="xkcd-a" title="Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dnd_combinatorics.png" alt="Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys." height=300 />
 </a>
