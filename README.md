@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dnd_combinatorics.png" alt="Look, you can't complain about this after giving us so many scenarios involving N locked chests and M unlabeled keys." height=300 />
+<a id="xkcd-a" title="We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cold_air.png" alt="We also should really have checked that the old water tower was disconnected from the water system before we started filling it with compressed air." height=300 />
 </a>
