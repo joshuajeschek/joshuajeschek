@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/neutrino_modem.png" alt="Our sysadmin accidentally won a Nobel Prize while trying to debug neutrino oscillation error correction." height=300 />
+<a id="xkcd-a" title="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/second_stage.png" alt="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." height=300 />
 </a>
