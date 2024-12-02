@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/second_stage.png" alt="Hmm, they won't do in-flight delivery, so let's order a new first and second stage to our emergency landing site and then try to touch down on top of them to save time." height=300 />
+<a id="xkcd-a" title="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" alt="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." height=300 />
 </a>
