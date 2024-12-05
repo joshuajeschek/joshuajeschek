@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/advent_calendar_advent_calendar.png" alt="The growth rate of items per day may may seem absurd, but it's actually much less than the acceleration in the 12 Days of Christmas song." height=300 />
+<a id="xkcd-a" title="Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/infinite_armada_chess.png" alt="Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access" height=300 />
 </a>
