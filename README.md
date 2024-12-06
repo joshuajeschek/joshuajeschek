@@ -46,6 +46,6 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/infinite_armada_chess.png" alt="Stockfish 16 suggests the unconventional opening 1. RuntimeError: Out of bounds memory access" height=300 />
+<a id="xkcd-a" title="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/seismologists.png" alt="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." height=300 />
 </a>
