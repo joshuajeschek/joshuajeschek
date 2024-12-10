@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/seismologists.png" alt="And even when they're not distracted, they usually get kicked out for illegal under-the-net 'subduction spikes'." height=300 />
+<a id="xkcd-a" title="No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/making_tea.png" alt="No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately." height=300 />
 </a>
