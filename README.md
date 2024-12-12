@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/making_tea.png" alt="No, of course we don't microwave the mug WITH the teabag in it. We microwave the teabag separately." height=300 />
+<a id="xkcd-a" title="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_maritime_approximation.png" alt="It works because a nautical mile is based on a degree of latitude, and the Earth (e) is a circle." height=300 />
 </a>
