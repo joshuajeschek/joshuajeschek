@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8's greater pointiness you actually have to roll a D12 and D8 respectively to determine damage." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dnd_roll.png" alt="Under some circumstances, if you throw a D8 and then a D12 at an enemy, thanks to the D8's greater pointiness you actually have to roll a D12 and D8 respectively to determine damage." height=300 />
+<a id="xkcd-a" title="C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sun_avoidance.png" alt="C'mon, ESA Solar Orbiter team, just give the Parker probe a LITTLE nudge at aphelion. Crash it into the sun. Fulfill the dream of Icarus. It is your destiny." height=300 />
 </a>
