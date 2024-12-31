@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/lasering_incidents.png" alt="I still don't know how the police found my compound where I ran an illegal searchlight depot/covert blimp airfield/fireworks testing range." height=300 />
+<a id="xkcd-a" title="Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/time_capsule_instructions.png" alt="Inside is a third box, labeled DO NOT OPEN UNLESS YOU ARE IN THE TIME ZONE WHERE YOU OPENED BOTH PREVIOUS BOXES." height=300 />
 </a>
