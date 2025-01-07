@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/origami_black_hole.png" alt="You may notice the first half of these instructions are similar to the instructions for a working nuclear fusion device. After the first few dozen steps, be sure to press down firmly and fold quickly to overcome fusion pressure." height=300 />
+<a id="xkcd-a" title="I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/features_of_adulthood.png" alt="I don't dig pit traps and cover them with sticks and a thin layer of leaves nearly as much as I expected; I find a chance to do it barely once a month." height=300 />
 </a>
