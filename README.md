@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="You don't want the nitrogen percentage to be too high or you run the risk of eutrophication." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/trimix.png" alt="You don't want the nitrogen percentage to be too high or you run the risk of eutrophication." height=300 />
+<a id="xkcd-a" title="The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chess_zoo.png" alt="The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity." height=300 />
 </a>
