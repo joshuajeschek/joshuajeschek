@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chess_zoo.png" alt="The zoo takes special care to keep kings separated from opposite-color pieces as part of their conservation program to prevent mating in captivity." height=300 />
+<a id="xkcd-a" title="A good ²³⁸Umbrella policy should cover it." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/radon.png" alt="A good ²³⁸Umbrella policy should cover it." height=300 />
 </a>
