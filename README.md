@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A good ²³⁸Umbrella policy should cover it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/radon.png" alt="A good ²³⁸Umbrella policy should cover it." height=300 />
+<a id="xkcd-a" title="Speed limit c arcminutes^2 per steradian" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/uncanceled_units.png" alt="Speed limit c arcminutes^2 per steradian" height=300 />
 </a>
