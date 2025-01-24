@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/unit_circle.png" alt="They're continuing to search for a square with the same area as the circle, as efforts to construct one have run into difficulties." height=300 />
+<a id="xkcd-a" title="Unfortunately, body size and bite force continue to increase." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/t_rex_evolution.png" alt="Unfortunately, body size and bite force continue to increase." height=300 />
 </a>
