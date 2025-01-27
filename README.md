@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Unfortunately, body size and bite force continue to increase." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/t_rex_evolution.png" alt="Unfortunately, body size and bite force continue to increase." height=300 />
+<a id="xkcd-a" title="Update: I've been banned from the physics department for the way I pronounce "Doppler effect."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/muons.png" alt="Update: I've been banned from the physics department for the way I pronounce "Doppler effect."" height=300 />
 </a>
