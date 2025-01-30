@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Update: I've been banned from the physics department for the way I pronounce "Doppler effect."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/muons.png" alt="Update: I've been banned from the physics department for the way I pronounce "Doppler effect."" height=300 />
+<a id="xkcd-a" title="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/humidifier_review.png" alt="They should add a little sticker that certifies that the humidifier supports water conservation, but in the sense of energy conservation or momentum conservation." height=300 />
 </a>
