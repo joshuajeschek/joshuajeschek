@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/suspension_bridge.png" alt="As a first step, they can put in a secondary deck, to help drivers try it out and find out how fun the jumps are. After a while no one will use the old flat deck and they can remove it." height=300 />
+<a id="xkcd-a" title="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/incoming_asteroid.png" alt="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." height=300 />
 </a>
