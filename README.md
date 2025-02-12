@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/incoming_asteroid.png" alt="The bottom ones are also potentially bad news for any other planets in our solar system that have been counting on Earth having a stable orbit." height=300 />
+<a id="xkcd-a" title="What's weirder is that muons turned out to be INCREDIBLY cute." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/atom.png" alt="What's weirder is that muons turned out to be INCREDIBLY cute." height=300 />
 </a>
