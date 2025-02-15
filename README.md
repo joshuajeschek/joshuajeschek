@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="What's weirder is that muons turned out to be INCREDIBLY cute." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/atom.png" alt="What's weirder is that muons turned out to be INCREDIBLY cute." height=300 />
+<a id="xkcd-a" title="They may technically have been softwoods at some point, but they definitely aren't now." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/hardwood.png" alt="They may technically have been softwoods at some point, but they definitely aren't now." height=300 />
 </a>
