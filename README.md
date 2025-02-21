@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/km3net.png" alt="Unfortunately, KM3NeT led to the discovery of the Pauli anglerfish, which emits Cherenkov radiation to prey on neutrino researchers." height=300 />
+<a id="xkcd-a" title="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/scream_cipher.png" alt="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" height=300 />
 </a>
