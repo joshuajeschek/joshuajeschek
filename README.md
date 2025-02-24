@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/scream_cipher.png" alt="AAAAAA A ÃA̧AȂA̦ ǍÅÂÃĀÁȂ AAAAAAA!" height=300 />
+<a id="xkcd-a" title="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/giants.png" alt="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." height=300 />
 </a>
