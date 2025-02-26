@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/giants.png" alt="I can't get over the suspicion that all those viral pictures are photoshopped and 'Flemish' belongs in the lower right circle." height=300 />
+<a id="xkcd-a" title="2040s: RNA formed the basis for life each of the five known times it arose on the early Earth." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/rna.png" alt="2040s: RNA formed the basis for life each of the five known times it arose on the early Earth." height=300 />
 </a>
