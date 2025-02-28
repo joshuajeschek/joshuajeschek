@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="2040s: RNA formed the basis for life each of the five known times it arose on the early Earth." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/rna.png" alt="2040s: RNA formed the basis for life each of the five known times it arose on the early Earth." height=300 />
+<a id="xkcd-a" title="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/excusing_yourself.png" alt="The most awkward part is when you have to pause to put on your shoes before you continue rolling out the door." height=300 />
 </a>
