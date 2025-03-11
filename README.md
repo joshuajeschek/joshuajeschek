@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/omniroll.png" alt="It seems wrong that Fruit by the Foot is only sold by weight or by number of rolls." height=300 />
+<a id="xkcd-a" title="Update: The physics department has recruited an astronomer who studies meteor fireballs." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/water_balloons.png" alt="Update: The physics department has recruited an astronomer who studies meteor fireballs." height=300 />
 </a>
