@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It does come at the small cost of a LOT more off-by-40-or-50 errors." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/off_by_one.png" alt="It does come at the small cost of a LOT more off-by-40-or-50 errors." height=300 />
+<a id="xkcd-a" title="Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planet_definitions.png" alt="Under the 'has cleared its orbital neighborhood' and 'fuses hydrogen into helium' definitions, thanks to human activities Earth technically no longer qualifies as a planet but DOES count as a star." height=300 />
 </a>
