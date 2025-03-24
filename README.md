@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cosmic_distance_calibration.png" alt="This is the biggest breakthrough since astronomers noticed that the little crosshairs around red giant stars starting to burn helium are all the same size." height=300 />
+<a id="xkcd-a" title="Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sawstart.png" alt="Unfortunately, SawStart is one-use-only. Once started, the blade cannot be stopped, and must be replaced with a fresh blade while the running one is carefully disposed of." height=300 />
 </a>
