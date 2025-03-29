@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/rock_identification.png" alt="'Is it worth anything?' 'I dunno, is the answer to that question worth another $5?'" height=300 />
+<a id="xkcd-a" title="There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/terror_bird.png" alt="There has long been debate about Big Bird's species, with some experts claiming he was a canary, but recent genetic analysis places him firmly in Cariamiformes." height=300 />
 </a>
