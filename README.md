@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/decay_chain.png" alt="If you have an old phone in a drawer, and you listen very carefully, you can occasionally hear the occasional tap of an emitted SIM card hitting the side of the drawer as the phone transmutes to a lower-end model." height=300 />
+<a id="xkcd-a" title="We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/stargazing_4.png" alt="We haven't actually seen a star fall in since we invented telescopes, but I have a list of ones I'm really hoping are next." height=300 />
 </a>
