@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I have to pay with paper money." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/anachronym_challenge.png" alt="I have to pay with paper money." height=300 />
+<a id="xkcd-a" title="When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/the_roads_both_taken.png" alt="When you worry that you're missing out on something by not making both choices simultaneously by quantum superposition, that's called phomo." height=300 />
 </a>
