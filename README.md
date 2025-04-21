@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/anchor_bolts.png" alt="The biggest expense was installing the mantle ducts to keep the carbonate-silicate cycle operating." height=300 />
+<a id="xkcd-a" title="'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/air_fact.png" alt="'Wow, that must be why you swallow so many of them per year!' 'No, that's spiders. You swallow WAY more ants.'" height=300 />
 </a>
