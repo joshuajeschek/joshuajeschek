@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tennis_balls.png" alt="After initial tests created a series of large holes in the wall of the lab, the higher-power Scanning Tunneling Tennis Ball Microscope project was quickly shut down." height=300 />
+<a id="xkcd-a" title="Rümeysa Öztürk was grabbed off the street in my town one month ago." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/phd_timeline.png" alt="Rümeysa Öztürk was grabbed off the street in my town one month ago." height=300 />
 </a>
