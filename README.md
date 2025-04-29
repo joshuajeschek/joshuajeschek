@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Rümeysa Öztürk was grabbed off the street in my town one month ago." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/phd_timeline.png" alt="Rümeysa Öztürk was grabbed off the street in my town one month ago." height=300 />
+<a id="xkcd-a" title="It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chess_position.png" alt="It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it." height=300 />
 </a>
