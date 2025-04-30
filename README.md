@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chess_position.png" alt="It's important to learn the moves that take you into the vortex, but it's best not to study vortex itself too closely. Even grandmasters who have built up a tolerance lose the ability to play for a few hours after studying it." height=300 />
+<a id="xkcd-a" title="Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/jupiter_core.png" alt="Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System." height=300 />
 </a>
