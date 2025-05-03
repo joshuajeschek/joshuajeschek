@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/jupiter_core.png" alt="Juno mission data suggests that Jupiter actually contains Matryoshka doll-style nested copies of every other planet in the Solar System." height=300 />
+<a id="xkcd-a" title="Unstoppable force-carrying particles can't interact with immovable matter by definition." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png" alt="Unstoppable force-carrying particles can't interact with immovable matter by definition." height=300 />
 </a>
