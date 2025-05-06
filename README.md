@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Unstoppable force-carrying particles can't interact with immovable matter by definition." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/unstoppable_force_and_immovable_object.png" alt="Unstoppable force-carrying particles can't interact with immovable matter by definition." height=300 />
+<a id="xkcd-a" title="In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/about_20_pounds.png" alt="In addition to gravity, burritos interact through the strong, weak, and electromagnetic forces, which is believed to be a major contributor to their popularity." height=300 />
 </a>
