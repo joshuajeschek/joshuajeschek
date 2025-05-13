@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Reductio ad absurdum fails when reality is absurd." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pascals_law.png" alt="Reductio ad absurdum fails when reality is absurd." height=300 />
+<a id="xkcd-a" title="P.S. If you have time travel, come to my birthday party Saturday!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/deposition.png" alt="P.S. If you have time travel, come to my birthday party Saturday!" height=300 />
 </a>
