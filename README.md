@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="P.S. If you have time travel, come to my birthday party Saturday!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/deposition.png" alt="P.S. If you have time travel, come to my birthday party Saturday!" height=300 />
+<a id="xkcd-a" title="Scholars are still debating whether the current period is post-postmodern or neo-contemporary." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/modern.png" alt="Scholars are still debating whether the current period is post-postmodern or neo-contemporary." height=300 />
 </a>
