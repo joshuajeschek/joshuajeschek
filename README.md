@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="169 is a baker's gross." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bakers_units.png" alt="169 is a baker's gross." height=300 />
+<a id="xkcd-a" title="A 5% efficiency gain at the cost of a 99% efficiency loss" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/drafting.png" alt="A 5% efficiency gain at the cost of a 99% efficiency loss" height=300 />
 </a>
