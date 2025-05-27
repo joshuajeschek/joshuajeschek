@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A 5% efficiency gain at the cost of a 99% efficiency loss" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/drafting.png" alt="A 5% efficiency gain at the cost of a 99% efficiency loss" height=300 />
+<a id="xkcd-a" title="Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/mass_spec.png" alt="Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure." height=300 />
 </a>
