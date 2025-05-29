@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/mass_spec.png" alt="Patients at least found it to be an improvement over Millikan's incredibly messy and unpleasant oil drop suspension procedure." height=300 />
+<a id="xkcd-a" title="Under the two-domain system, anyone who punches you is technically an Archaean pathogen." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/archaea.png" alt="Under the two-domain system, anyone who punches you is technically an Archaean pathogen." height=300 />
 </a>
