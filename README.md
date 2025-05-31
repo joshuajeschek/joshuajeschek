@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Under the two-domain system, anyone who punches you is technically an Archaean pathogen." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/archaea.png" alt="Under the two-domain system, anyone who punches you is technically an Archaean pathogen." height=300 />
+<a id="xkcd-a" title="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/check_engine.png" alt="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone." height=300 />
 </a>
