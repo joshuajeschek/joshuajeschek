@@ -46,6 +46,6 @@ Roff                     1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/check_engine.png" alt="They say it's probably safe to keep orbiting for a while, but if it stays on or starts flashing we might have to call someone." height=300 />
+<a id="xkcd-a" title="Pontoon bridges are just linear open-sided waterbeds." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bridge_types.png" alt="Pontoon bridges are just linear open-sided waterbeds." height=300 />
 </a>
