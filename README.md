@@ -46,6 +46,6 @@ C++                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Ultimately, history would imperfectly record the story of the Foal of Troy." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/trojan_horse.png" alt="Ultimately, history would imperfectly record the story of the Foal of Troy." height=300 />
+<a id="xkcd-a" title="The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/neighbor_source_heat_pump.png" alt="The installation of the pipes on the inside of the insulation can be challenging, especially when the neighbor could come home at any minute." height=300 />
 </a>
