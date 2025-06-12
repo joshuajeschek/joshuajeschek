@@ -46,6 +46,6 @@ C++                      2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/alert_sound.png" alt="With a good battery, the device can easily last for 5 or 10 years, although the walls probably won't." height=300 />
+<a id="xkcd-a" title="If you think curiosity without rigor is bad, you should see rigor without curiosity." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/good_science.png" alt="If you think curiosity without rigor is bad, you should see rigor without curiosity." height=300 />
 </a>
