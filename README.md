@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/interoperability.png" alt="We're getting a lot of complaints from commuters who were routed onto a coaster, but the theme park patrons who spent hours stuck on an intercity line are also not happy." height=300 />
+<a id="xkcd-a" title="Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/weather_balloons.png" alt="Once you add the balloons into the model, it makes forecasting easier overall--the forecast is always 'cold and dark, with minimal solar-driven convection.'" height=300 />
 </a>
