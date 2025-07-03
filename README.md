@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's important for devices to have internet connectivity so the manufacturer can patch remote exploits." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dehumidifier.png" alt="It's important for devices to have internet connectivity so the manufacturer can patch remote exploits." height=300 />
+<a id="xkcd-a" title="Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/global_ranking.png" alt="Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard." height=300 />
 </a>
