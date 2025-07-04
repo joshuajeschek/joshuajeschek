@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/global_ranking.png" alt="Starting a meta-leaderboard for tracking who holds the record for ranking behind the most distinct people on an online leaderboard." height=300 />
+<a id="xkcd-a" title="Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/artificial_gravity.png" alt="Low gravity can cause bone loss, so we're pleased to report that, since we initiated capsule motion, the number of bones in each crew member has been steadily increasing." height=300 />
 </a>
