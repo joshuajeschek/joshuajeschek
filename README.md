@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fix_this_sign.png" alt="We're building on our earlier success getting web developers to pay to change the backslashes in our displayed payment URL to forward slashes." height=300 />
+<a id="xkcd-a" title="That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/building_a_fire.png" alt="That was quicker than usual! The cabin's sprinkler system often makes it really hard to keep anything lit." height=300 />
 </a>
