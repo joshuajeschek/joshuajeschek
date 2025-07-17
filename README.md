@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/unsolved_physics_problems.png" alt="'Tin pest' makes more sense to me. Tin just doesn't want to be locked down in a shape like that. I get it. But why would any metal want to grow hair??" height=300 />
+<a id="xkcd-a" title="This is almost as bad as the time I signed up for a purely partisan fishing expedition." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="This is almost as bad as the time I signed up for a purely partisan fishing expedition." height=300 />
 </a>
