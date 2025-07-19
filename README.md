@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This is almost as bad as the time I signed up for a purely partisan fishing expedition." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/echo_chamber.png" alt="This is almost as bad as the time I signed up for a purely partisan fishing expedition." height=300 />
+<a id="xkcd-a" title="Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/replication_crisis.png" alt="Maybe encouraging the publication of null results isn't enough--maybe we need a journal devoted to publishing results the study authors find personally annoying." height=300 />
 </a>
