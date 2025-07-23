@@ -46,6 +46,6 @@ PostScript               3 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/inaturalist_animals_and_plants.png" alt="Washington, DC: Eastern gray squirrel, Amur honeysuckle. Puerto Rico: Crested anole, sea grape. US as a whole: Mallard, eastern poison ivy." height=300 />
+<a id="xkcd-a" title=""And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/flettner_rotor.png" alt=""And in maritime news, the Coast Guard is on the scene today after an apparent collision between two lighthouses."" height=300 />
 </a>
