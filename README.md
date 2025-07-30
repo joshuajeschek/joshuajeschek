@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/kite_incident.png" alt="Detectives say the key to tracking down the source of the kites was a large wall map covered in thumbtacks and string. 'It's the first time that method has ever actually worked,' said a spokesperson." height=300 />
+<a id="xkcd-a" title="During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bad_map_projection_interrupted_spheres.png" alt="During the most recent glacial maximum, it's believed that land bridges extended from the surfaces and connected several of the spheres together." height=300 />
 </a>
