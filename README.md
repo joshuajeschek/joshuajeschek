@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Achilles was a mighty warrior, but his Achilles' heel was his heel." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/canon.png" alt="Achilles was a mighty warrior, but his Achilles' heel was his heel." height=300 />
+<a id="xkcd-a" title="We should have you at the gate in just under two hours--two and a half if we get pulled over." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/grounded.png" alt="We should have you at the gate in just under two hours--two and a half if we get pulled over." height=300 />
 </a>
