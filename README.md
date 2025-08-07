@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We should have you at the gate in just under two hours--two and a half if we get pulled over." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/grounded.png" alt="We should have you at the gate in just under two hours--two and a half if we get pulled over." height=300 />
+<a id="xkcd-a" title="Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/snake_in_the_box_problem.png" alt="Chemistry grad students have been spotted trying to lure campus squirrels into laundry hampers in the hope that it sparks inspiration." height=300 />
 </a>
