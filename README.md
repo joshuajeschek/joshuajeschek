@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/predicament.png" alt="I dropped my phone while trying to search, and I tried to unlock it from up here, so can you also search for screen repair places?" height=300 />
+<a id="xkcd-a" title="Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cesium.png" alt="Someday I hope to find a way to mess up a recipe so badly that it draws the attention of the International Air Transport Association, the International Mathematical Olympiad, or the NSA." height=300 />
 </a>
