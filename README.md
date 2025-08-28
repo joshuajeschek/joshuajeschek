@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dual_roomba.png" alt="I tried uploading it to a household appliance porn site I found, but apparently their content is limited to only fans." height=300 />
+<a id="xkcd-a" title="Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/wavefunction_collapse.png" alt="Wavefunction collapse is only one interpretation. Under some interpretations, graduate students also have souls." height=300 />
 </a>
