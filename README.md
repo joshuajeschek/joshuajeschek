@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They're up there with coral islands, lightning, and caterpillars turning into butterflies." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sea_level.png" alt="They're up there with coral islands, lightning, and caterpillars turning into butterflies." height=300 />
+<a id="xkcd-a" title="Be careful fighting gravity. If you win, it's a long way down." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pull.png" alt="Be careful fighting gravity. If you win, it's a long way down." height=300 />
 </a>
