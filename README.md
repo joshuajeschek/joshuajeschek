@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Be careful fighting gravity. If you win, it's a long way down." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pull.png" alt="Be careful fighting gravity. If you win, it's a long way down." height=300 />
+<a id="xkcd-a" title="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cursed_number.png" alt="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop." height=300 />
 </a>
