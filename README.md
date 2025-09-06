@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cursed_number.png" alt="Another group of mathematicians is working to put an upper bound on the number, although everyone keeps begging them to stop." height=300 />
+<a id="xkcd-a" title="A person with two watches is never sure what time it is, especially if I got them one of the watches." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dimensional_lumber_tape_measure.png" alt="A person with two watches is never sure what time it is, especially if I got them one of the watches." height=300 />
 </a>
