@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chess_variant.png" alt="The draw-by-repetition rule does a good job of keeping players from sliding a tile back and forth repeatedly, but the tiles definitely introduce some weird en passant and castling edge cases." height=300 />
+<a id="xkcd-a" title="Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/biology_department.png" alt="Welcome to the Linguistics Department - It has been [2] [DAYS] since someone noticed that the Biology Department sign has a one-day-long singular/plural disagreement after it resets." height=300 />
 </a>
