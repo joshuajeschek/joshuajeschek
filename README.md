@@ -25,6 +25,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot..." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/question_mark.png" alt="Although now people will realize three-per-em space that all this time I've been using weird medium mathematical space whitespace characters in my hair space hair space hair space speech dot dot dot..." height=300 />
+<a id="xkcd-a" title="People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/phase_changes.png" alt="People looking for the gaps in our understanding where the meaning of consciousness or free will might hide often turn to quantum uncertainty or infinite cosmologies, as if we don't have breathtakingly complex emergent phenomena right there in our freezers." height=300 />
 </a>
