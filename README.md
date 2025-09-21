@@ -1,6 +1,29 @@
 ### Wakatime Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-965.9%20thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C362%20hrs%2049%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-971.3%20thousand%20lines%20of%20code-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                391 commits         ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+🌆 Daytime                705 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌃 Evening                520 commits         ████████░░░░░░░░░░░░░░░░░   30.48 % 
+🌙 Night                  90 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   181 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+Tuesday                  261 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Wednesday                248 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+Thursday                 316 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Friday                   229 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+Sunday                   234 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+```
+
 
 **I Mostly Code in Python** 
 
@@ -19,7 +42,7 @@ Typst                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/joshuajeschek/joshuajeschek/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 20:14:27 UTC
+ Last Updated on 21/09/2025 20:14:29 UTC
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
