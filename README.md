@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="One perk of being born at 0.88c is that your birthday is over two days long." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fantastic_four.png" alt="One perk of being born at 0.88c is that your birthday is over two days long." height=300 />
+<a id="xkcd-a" title="Every downhill walk is a waterslide that might have been." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/hiking.png" alt="Every downhill walk is a waterslide that might have been." height=300 />
 </a>
