@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/measure_twice_cut_once.png" alt=""Measure zero times, cut zero times." --carpenter who has achieved enlightenment and realized the wood is fine where it is" height=300 />
+<a id="xkcd-a" title="Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ping.png" alt="Progress on getting shipwrecked sailors to adopt ICMPv6 has been slow." height=300 />
 </a>
