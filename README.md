@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/heart_mountain.png" alt="Even geology papers about Heart Mountain are like, "Look, we all agree this 'volcanic gas earthquake hovercraft' thing seems like it can't possibly be right, but..."" height=300 />
+<a id="xkcd-a" title="The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/repair_video.png" alt="The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue." height=300 />
 </a>
