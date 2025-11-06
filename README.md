@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/repair_video.png" alt="The statue should be in the likeness of whatever sculptor posted the sculpting tool repair video that was most helpful during the installation of the statue." height=300 />
+<a id="xkcd-a" title="The package weighs 7 kg 9 oz." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/metric_tip.png" alt="The package weighs 7 kg 9 oz." height=300 />
 </a>
