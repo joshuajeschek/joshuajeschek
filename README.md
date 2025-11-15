@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/car_size.png" alt="'They really shouldn't let those small cars drive in traffic. I worry I'm going to kill someone if I hit one! They should have to drive on the sidewalk, safely out of the way.'" height=300 />
+<a id="xkcd-a" title="We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/beam_dump.png" alt="We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain." height=300 />
 </a>
