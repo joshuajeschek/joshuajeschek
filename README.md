@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/beam_dump.png" alt="We're adding some industrial flypaper to minimize reflection or scattering of customers who might complain." height=300 />
+<a id="xkcd-a" title="'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/epirbs.png" alt="'Oh no, the box is drifting out into the harbor!' 'Yeah, I wouldn't worry about losing it.'" height=300 />
 </a>
