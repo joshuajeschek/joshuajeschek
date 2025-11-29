@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/satellite_imagery.png" alt="Every weekend I take an ATV out into the desert and spend a day tracing a faint "(C) GOOGLE 2009" watermark across the landscape." height=300 />
+<a id="xkcd-a" title="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bridge_clearance.png" alt="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead." height=300 />
 </a>
