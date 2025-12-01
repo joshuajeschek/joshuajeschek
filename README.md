@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bridge_clearance.png" alt="A lot of the highway department's budget goes to adjusting the sign whenever the moon passes directly overhead." height=300 />
+<a id="xkcd-a" title="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/website_task_flowchart.png" alt="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" height=300 />
 </a>
