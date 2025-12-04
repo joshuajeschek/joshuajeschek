@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/website_task_flowchart.png" alt="Tired of waiting on hold? Use our website to chat with one of our live agents, who are available to produce words at you 24/7!" height=300 />
+<a id="xkcd-a" title="Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/inverted_catenaries.png" alt="Some tires are marketed as 'all-shape tires,' but if driven in a climate with both inverted catenary falls and triangle falls, they wear out really fast." height=300 />
 </a>
