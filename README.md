@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/hyperacute_interdynamics.png" alt="Our models fall apart where the three theories overlap; we're unable to predict what happens when a nanometer-sized squirrel eats a grapefruit with the mass of the sun." height=300 />
+<a id="xkcd-a" title="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fishing.png" alt="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'" height=300 />
 </a>
