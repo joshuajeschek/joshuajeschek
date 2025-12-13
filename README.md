@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fishing.png" alt="'That's definitely above the catch-and-release size minimum for planetesimals.' 'I'm going to throw it back anyway.'" height=300 />
+<a id="xkcd-a" title="The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/apples.png" alt="The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph." height=300 />
 </a>
