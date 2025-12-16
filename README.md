@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/apples.png" alt="The experimental math department's budget is under scrutiny for how much they've been spending on trains leaving Chicago at 9:00pm traveling at 45 mph." height=300 />
+<a id="xkcd-a" title="Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/jumping_frog_radius.png" alt="Earth's r_jf is approximately 1.5 light-days, leading to general relativity's successful prediction that all the frogs in the Solar System should be found collected on the surface of the Earth." height=300 />
 </a>
