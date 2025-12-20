@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/telescope_types.png" alt="I'm trying to buy a gravitational lens for my camera, but I can't tell if the manufacturers are listing comoving focal length or proper focal length." height=300 />
+<a id="xkcd-a" title="My goal in life is to be personally responsible for at least one sports rule change." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/pole_vault_pole.png" alt="My goal in life is to be personally responsible for at least one sports rule change." height=300 />
 </a>
