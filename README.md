@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/funny_numbers.png" alt="In 1899, people were walking around shouting '23' at each other and laughing, and confused reporters were writing articles trying to figure out what it meant." height=300 />
+<a id="xkcd-a" title="Vertebrae Georg" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sauropods.png" alt="Vertebrae Georg" height=300 />
 </a>
