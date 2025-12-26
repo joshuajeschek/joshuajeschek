@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Vertebrae Georg" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sauropods.png" alt="Vertebrae Georg" height=300 />
+<a id="xkcd-a" title="Building Inspectors HATE This One Weird Trick" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/truly_universal_outlet.png" alt="Building Inspectors HATE This One Weird Trick" height=300 />
 </a>
