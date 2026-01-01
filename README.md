@@ -46,6 +46,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/high_altitude_cooking_instructions.png" alt="1,300,000-1,400,000 ft: Ask a crew member to show you how to use the ISS food warmer." height=300 />
+<a id="xkcd-a" title="Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/anyone_else_here.png" alt="Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline." height=300 />
 </a>
