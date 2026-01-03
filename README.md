@@ -25,6 +25,6 @@ Typst                    1 repo              ░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/anyone_else_here.png" alt="Anyone else watching this Youtube video in 1954? If so, my last trip definitely messed with the timeline." height=300 />
+<a id="xkcd-a" title="They're not generally used for crewed spacecraft because astronauts HATE going around the corners." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/conic_sections.png" alt="They're not generally used for crewed spacecraft because astronauts HATE going around the corners." height=300 />
 </a>
