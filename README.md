@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tensegrity.png" alt="Some people argue that the tension and compression in the human skeleton is technically tensegrity, but it's missing the defining characteristic: making people say 'wtf, how is that thing floating?' when they see it." height=300 />
+<a id="xkcd-a" title="It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/superstition.png" alt="It's important to teach yourself to feel responsible for random events, because with great responsibility comes great power. That's what my wise Uncle Ben told me right before he died; he might still be alive today if only I'd said rabbit rabbit that year!" height=300 />
 </a>
