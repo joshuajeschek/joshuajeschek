@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planetary_alignment.png" alt="We're going to need to modify the surface to mount it on the test stand. Which ocean basin do you like the least?" height=300 />
+<a id="xkcd-a" title="I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sailing_rigs.png" alt="I wanted to make the world's fastest yawl, so I made the aft sail bigger, but apparently that means it's not a yawl anymore! It's a real ketch-22." height=300 />
 </a>
