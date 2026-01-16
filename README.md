@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/16_part_epoxy.png" alt="Some surfaces may seem difficult to glue. But if you research the materials, find tables of what adhesives work on them, and prepare your surfaces carefully, you can fail to glue them in a fun NEW way that fills your house with dangerous vapors." height=300 />
+<a id="xkcd-a" title="Welcome to the International Space Station Exclamation Point!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/international_station.png" alt="Welcome to the International Space Station Exclamation Point!" height=300 />
 </a>
