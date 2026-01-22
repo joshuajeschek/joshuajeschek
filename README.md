@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/aurora_coolness.png" alt="I've had countless nights where the line never left the bottom zone of the graph, but the few moments where it's climbed all the way to the top have made up for them all." height=300 />
+<a id="xkcd-a" title="Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cost_savings.png" alt="Unfortunately, my scheme to trick NASA has now taken over a decade longer than planned and has run way over budget." height=300 />
 </a>
