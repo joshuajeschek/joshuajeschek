@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Some of the atoms in the molecule are very weakly bound." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/chemical_formula.png" alt="Some of the atoms in the molecule are very weakly bound." height=300 />
+<a id="xkcd-a" title="There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/proof_without_content.png" alt="There's also a proof without content of a conjecture without content, but it's left as an exercise for the reader." height=300 />
 </a>
