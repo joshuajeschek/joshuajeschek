@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The discovery of a fully typographical star system comes with a big asterisk." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/binary_star.png" alt="The discovery of a fully typographical star system comes with a big asterisk." height=300 />
+<a id="xkcd-a" title="Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dinosaurs_and_non_dinosaurs.png" alt="Staplers are actually in Pseudosuchia, making them more closely related to crocodiles than to dinosaurs." height=300 />
 </a>
