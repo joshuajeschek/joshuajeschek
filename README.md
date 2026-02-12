@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/carbon_dating.png" alt="This dating is corroborated by the presence of stone tools at the site, rather than earlier and less effective helium ones." height=300 />
+<a id="xkcd-a" title="Do YOU remember the skylight being this big?" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/installation.png" alt="Do YOU remember the skylight being this big?" height=300 />
 </a>
