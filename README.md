@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/snews.png" alt="People say setting of fireworks indoors is dangerous, but I looked at their energy release and it's like 10^-40 foe; totally negligible." height=300 />
+<a id="xkcd-a" title="My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/plums.png" alt="My icebox plum trap easily captured William Carlos Williams. It took much less work than the infinite looping network of diverging paths I had to build in that yellow wood to ensnare Robert Frost." height=300 />
 </a>
