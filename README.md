@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/amperage.png" alt="Oh, and do you have any tips on how to vacuum up copper that's melted into your carpet?" height=300 />
+<a id="xkcd-a" title="After a lot of analysis, I've determined that they're actually big red dots; they're just very far away." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/little_red_dots.png" alt="After a lot of analysis, I've determined that they're actually big red dots; they're just very far away." height=300 />
 </a>
