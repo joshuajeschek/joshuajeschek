@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dental_formulas.png" alt="I mean, half of these are undefined. And your multiplication dots are too low; they look like decimal points." height=300 />
+<a id="xkcd-a" title="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electric_vehicles.png" alt="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." height=300 />
 </a>
