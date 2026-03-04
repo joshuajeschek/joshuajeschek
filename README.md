@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/electric_vehicles.png" alt="Now that I've finally gotten an electric vehicle, I'm never going back to an acoustic one." height=300 />
+<a id="xkcd-a" title="This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/solar_warning.png" alt="This replaces the previous solar activity watch, which was issued last month when the sun took off its sunglasses." height=300 />
 </a>
