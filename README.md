@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="As always, you are permitted to call one person for guidance, but that person must be a grandparent." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/home_remedies.png" alt="As always, you are permitted to call one person for guidance, but that person must be a grandparent." height=300 />
+<a id="xkcd-a" title="Aww, the oceanic crust and the continental crust are getting married!" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/subduction_retrieval.png" alt="Aww, the oceanic crust and the continental crust are getting married!" height=300 />
 </a>
