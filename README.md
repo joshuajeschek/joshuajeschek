@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/inflation_timeline.png" alt="Depending what corners of the internet you hang out on, 'regular' may at times awkwardly coexist with 'sexy.'" height=300 />
+<a id="xkcd-a" title="Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/centimeter_wavelengths.png" alt="Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?" height=300 />
 </a>
