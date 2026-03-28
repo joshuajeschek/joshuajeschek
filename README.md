@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/centimeter_wavelengths.png" alt="Yes, the cosmic microwave background is great, but what about the earthly microwave foreground?" height=300 />
+<a id="xkcd-a" title="We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/satellite_pollution.png" alt="We're working to make sure the images are as up-to-date and accurate as possible, with a minimum number of sponsored galaxies." height=300 />
 </a>
