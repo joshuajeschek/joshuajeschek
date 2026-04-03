@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/creation.png" alt="This xkcd.com update introduces a variety of new reading modes which can be activated through the menu below the comic." height=300 />
+<a id="xkcd-a" title="It has been −2,147,483,648 days since our last integer overflow." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/day_counter.png" alt="It has been −2,147,483,648 days since our last integer overflow." height=300 />
 </a>
