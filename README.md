@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It has been −2,147,483,648 days since our last integer overflow." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/day_counter.png" alt="It has been −2,147,483,648 days since our last integer overflow." height=300 />
+<a id="xkcd-a" title="Communication is one of the most popular ways to transmit information, ahead of rivals such as" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/grammar.png" alt="Communication is one of the most popular ways to transmit information, ahead of rivals such as" height=300 />
 </a>
