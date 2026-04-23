@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/types_of_board_game.png" alt="I can't believe Candles of Vienna caved to commercial pressure and added the Goku expansion." height=300 />
+<a id="xkcd-a" title="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/border_message.png" alt="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air." height=300 />
 </a>
