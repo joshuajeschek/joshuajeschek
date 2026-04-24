@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/border_message.png" alt="Thanks to differences in logging regulations, the messages actually turned out to be visible from the air." height=300 />
+<a id="xkcd-a" title="Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/husband_and_wife.png" alt="Borat came out twenty years ago this year--closer to the breakup of the Soviet Union than to today--but it honestly feels like it's been even longer, somehow." height=300 />
 </a>
