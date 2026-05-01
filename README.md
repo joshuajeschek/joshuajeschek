@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/simple_machines.png" alt="It's hard to decide which simple machine system to invest in. DeWalt makes a great lever and inclined plane, but I hear Milwaukee's wheel-and-axles are really good." height=300 />
+<a id="xkcd-a" title=""I know it seems impossible, but the trick is that I sailed in here when I was very young."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/bottle.png" alt=""I know it seems impossible, but the trick is that I sailed in here when I was very young."" height=300 />
 </a>
