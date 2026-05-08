@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/aperiodic_table.png" alt="Scientists occasionally invent alternative periodic table layouts, which is usually a sign that they don't have enough enrichment in their enclosures." height=300 />
+<a id="xkcd-a" title="'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/crystal_gazing.png" alt="'Beyond that lies a vale of fire through which my vision cannot penetrate' is the kind of fun thing geologists, heliophysicists, and early universe cosmologists have a lot of opportunities to say." height=300 />
 </a>
