@@ -23,6 +23,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/results_age.png" alt="Please, we need your help. Our research suggests you're the last living descendant of the person who knew how to format this config file." height=300 />
+<a id="xkcd-a" title="Usain Bolt holds the world record in the 100 meter speedrun." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/speedrun.png" alt="Usain Bolt holds the world record in the 100 meter speedrun." height=300 />
 </a>
