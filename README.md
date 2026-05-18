@@ -25,6 +25,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Usain Bolt holds the world record in the 100 meter speedrun." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/speedrun.png" alt="Usain Bolt holds the world record in the 100 meter speedrun." height=300 />
+<a id="xkcd-a" title="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/particle_census.png" alt="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations." height=300 />
 </a>
