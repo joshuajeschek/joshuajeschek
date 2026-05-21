@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/particle_census.png" alt="Remember, your answers to the physics census are confidential; we will not be issuing Pauli exclusion principle citations." height=300 />
+<a id="xkcd-a" title="They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/182_8_meters.png" alt="They rounded down to 182.8 instead of rounding up to 182.9 because 182.9 might make the statement incorrect." height=300 />
 </a>
