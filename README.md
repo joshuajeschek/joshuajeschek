@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/flag_design.png" alt="Every place has a local cryptid; more places need a local Pictish Beast, a creature in historical art that's drawn so weirdly that no one can tell what animal it's supposed to be." height=300 />
+<a id="xkcd-a" title="It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/time_machine_conversation.png" alt="It's possible to do sea navigation without a compass, but you'll have to get some spoilers from the Polynesians." height=300 />
 </a>
