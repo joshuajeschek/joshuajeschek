@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The research was overseen by the Institutional Review Board, which is what I named my surfboard." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planetary_science.png" alt="The research was overseen by the Institutional Review Board, which is what I named my surfboard." height=300 />
+<a id="xkcd-a" title="Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/nostalgia_content.png" alt="Gen-Z got a chunk of the Carboniferous, and now all their memes are about how pathetic and small today's dragonflies are." height=300 />
 </a>
