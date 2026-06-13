@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/beam_pipe.png" alt="'If you keep trying to spray your collaborators with the beam when they're not looking, I'm turning off the ion source and NO one will get to play with the beam!' --Physics's mom" height=300 />
+<a id="xkcd-a" title="It's great for exfoliating your skin, bones, houses, cities, landscape, etc." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/plate_flip.png" alt="It's great for exfoliating your skin, bones, houses, cities, landscape, etc." height=300 />
 </a>
