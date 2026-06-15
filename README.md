@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's great for exfoliating your skin, bones, houses, cities, landscape, etc." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/plate_flip.png" alt="It's great for exfoliating your skin, bones, houses, cities, landscape, etc." height=300 />
+<a id="xkcd-a" title="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tethys.png" alt="In order to carry the necessary crafting supplies, they built the ships at 12:1 scale." height=300 />
 </a>
