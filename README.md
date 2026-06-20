@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Commentators agree that this will probably be the last World Cup in which Messi faces serious competition." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/messi.png" alt="Commentators agree that this will probably be the last World Cup in which Messi faces serious competition." height=300 />
+<a id="xkcd-a" title="Brace yourself--the chirp gets pretty weird." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/side_effect.png" alt="Brace yourself--the chirp gets pretty weird." height=300 />
 </a>
