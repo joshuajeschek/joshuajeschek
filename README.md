@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Brace yourself--the chirp gets pretty weird." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/side_effect.png" alt="Brace yourself--the chirp gets pretty weird." height=300 />
+<a id="xkcd-a" title="The plural of anecdote may not be data, but the singular of data is anecdote." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/sports_commentary.png" alt="The plural of anecdote may not be data, but the singular of data is anecdote." height=300 />
 </a>
