@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/baryon_asymmetry.png" alt="Wait, what do you mean, 'dark matter'? It's not dark, it interacts with high-energy gamma rays ... right? Oh jeez, did I forget to make it interact?" height=300 />
+<a id="xkcd-a" title="This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/720_ollie.png" alt="This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games." height=300 />
 </a>
