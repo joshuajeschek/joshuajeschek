@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/720_ollie.png" alt="This discovery was key to his demonstration of regular/goofy symmetry violation, which won him gold in the theory portion of the X Games." height=300 />
+<a id="xkcd-a" title="Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/asteroid_threat.png" alt="Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down." height=300 />
 </a>
