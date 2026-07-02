@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/asteroid_threat.png" alt="Paleontologists have long worried that the dinosaurs blasted into space 66 million years ago will one day complete their orbits and fall back down." height=300 />
+<a id="xkcd-a" title="If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/holes.png" alt="If you're thinking 'Wait, a giant crystal cave in Mexico? What's that?' then I'm SO excited for the image search you're about to do." height=300 />
 </a>
