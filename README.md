@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/types_of_tornado_alert.png" alt="I hate the unearthly sound my phone makes when the weather service issues a tornado harbinger." height=300 />
+<a id="xkcd-a" title="The arbiter gave my knight a red card for capturing with cleats up :(" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/offside.png" alt="The arbiter gave my knight a red card for capturing with cleats up :(" height=300 />
 </a>
