@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/airport_meeting.png" alt="Although it was a setback for physics, I'm glad the particle naming rights issue led to the cancelation of Pizza Hut's Superconducting Super Collider in the early 90s, so the Double Stuffed Extra Cheese Topping Quark ended up just being named 'top quark.'" height=300 />
+<a id="xkcd-a" title="We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/toasting_marshmallows.png" alt="We have two 'in case of fire, break glass' boxes, which you pick between based on how big of a problem the fire is. One has an extinguisher, and one has sticks, marshmallows, graham crackers, and chocolate." height=300 />
 </a>
