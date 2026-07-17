@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/time_change.png" alt="All discussions of daylight saving time policy are doomed by a mix of contradictory, inconsistent, and impossible preferences, which is why I think the only thing we can really hope to do is to make it worse." height=300 />
+<a id="xkcd-a" title="NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730)." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/latitude_and_longitude.png" alt="NGS and IERS are complaining that they left CLEAR instructions to set the washing machine to WGS84 (G2296) instead of WGS84 (G730)." height=300 />
 </a>
