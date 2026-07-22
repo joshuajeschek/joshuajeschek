@@ -46,6 +46,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/arthurian_connector.png" alt="Most coffee shops have a descendant of Sophia of Hanover on staff for this, but just as I was about to ask for help, a previously unknown heir of Uther Pendragon who was ordering a muffin tripped on my laptop cord." height=300 />
+<a id="xkcd-a" title="We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/calibration_nobel.png" alt="We would like to once again apologize to Dr. Jones for last year's mistaken announcement. We should really have double-checked the envelope for this award in particular." height=300 />
 </a>
