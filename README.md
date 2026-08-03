@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/main_span.png" alt="Wind stress? Don't be silly. When has wind stress ever been a problem for a suspension bridge?" height=300 />
+<a id="xkcd-a" title="As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/maze.png" alt="As a side effect of the research, mice are now the only known animals other than humans to have developed a Backrooms mythology." height=300 />
 </a>
