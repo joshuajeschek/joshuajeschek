@@ -23,6 +23,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/antiques_roadshow.png" alt="The family lore was that we've had it ever since it was ejected from a star-forming gas cloud, but it seems more likely that my great-grandparents probably just bought it while on vacation in the galactic thin disk." height=300 />
+<a id="xkcd-a" title="I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/trick_play.png" alt="I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number." height=300 />
 </a>
