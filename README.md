@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/trick_play.png" alt="I've been trying to find out whether the Laws of the Game take the axiom of choice or not, but FIFA officials keep blocking my number." height=300 />
+<a id="xkcd-a" title="With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/size_and_lifespan.png" alt="With their 13 years recording and performing together and two humans worth of mass, the White Stripes are sandwiched neatly between gray wolves and blue whales." height=300 />
 </a>
