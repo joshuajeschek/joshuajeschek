@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/perseids.png" alt="Recently I've been watching the Daytime Perseids. I haven't seen a meteor from them yet, but the clouds are pretty and the snacks are good." height=300 />
+<a id="xkcd-a" title="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/archery_feat.png" alt="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me." height=300 />
 </a>
