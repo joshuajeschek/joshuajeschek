@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/archery_feat.png" alt="Update: I would not have embarked on this powerscaling venture if I'd known how thoroughly Mark Twain was going to roast me." height=300 />
+<a id="xkcd-a" title="Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/highway_signs.png" alt="Highway engineers like Planck units because, like the speed of light, the energy capacity of a typical car's gas tank is 1." height=300 />
 </a>
