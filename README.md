@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/geology_class.png" alt="The rise of AI review bombing tools threatens to take away a crucial source of experience for geology undergraduates." height=300 />
+<a id="xkcd-a" title="A 'left-handed specialist' is a physicist who studies the weak interaction." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/handedness.png" alt="A 'left-handed specialist' is a physicist who studies the weak interaction." height=300 />
 </a>
