@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/asteroid_mission.png" alt="Lander, this is Houston. There's been a request that you turn clipping back on and instead set the mass to 1kg. The theorists believe that will be pretty funny." height=300 />
+<a id="xkcd-a" title="The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/semaphore.png" alt="The speed of light in air is 50% faster than in fiber, but it's a challenge to get the arms to move fast enough to realize the latency advantage." height=300 />
 </a>
