@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fault_taunting.png" alt="One of the first things they teach you is to NEVER play with the geology toy over a mantle hotspot." height=300 />
+<a id="xkcd-a" title="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/oh_scale.png" alt="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail." height=300 />
 </a>
