@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/oh_scale.png" alt="To access distant parts of the project, I ended up building a regular-scale passenger train inside each rail." height=300 />
+<a id="xkcd-a" title="Someday, we will find the problem that goes with this solution." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/aerospace_flowchart.png" alt="Someday, we will find the problem that goes with this solution." height=300 />
 </a>
