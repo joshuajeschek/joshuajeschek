@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Someday, we will find the problem that goes with this solution." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/aerospace_flowchart.png" alt="Someday, we will find the problem that goes with this solution." height=300 />
+<a id="xkcd-a" title="You should probably get back to shore before spring hits." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits." height=300 />
 </a>
