@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="You should probably get back to shore before spring hits." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/summer.png" alt="You should probably get back to shore before spring hits." height=300 />
+<a id="xkcd-a" title="Many of the smaller dinosaurs seem to have largely preyed on housecats." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/tyrannosaurus.png" alt="Many of the smaller dinosaurs seem to have largely preyed on housecats." height=300 />
 </a>
