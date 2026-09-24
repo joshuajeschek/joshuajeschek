@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/stargazing_5.png" alt="The sun and the moon appear the same size in the sky, even though in real life the sun is more than twice as big. Some call this lucky alignment coincidence; others say it's proof that sometimes things can be the same size." height=300 />
+<a id="xkcd-a" title="Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/voyager_instruments.png" alt="Convincing him to turn off the stupid laser show and useless sound system was such a huge ordeal that no one has wanted to do it again." height=300 />
 </a>
