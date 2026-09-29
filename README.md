@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/slab_graveyard.png" alt="It's ok if you want to close close your eyes for the slab graveyard, so you can still have fun riding the mantle plume back up afterward!" height=300 />
+<a id="xkcd-a" title=""I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png" alt=""I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."" height=300 />
 </a>
