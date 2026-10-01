@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title=""I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/jupiter_icy_moons_explorer.png" alt=""I did briefly visit Venus in August 2025, but I figured out the mistake on my own because it didn't have any moons."" height=300 />
+<a id="xkcd-a" title="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices." height=300 />
 </a>
