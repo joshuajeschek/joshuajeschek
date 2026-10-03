@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ground_effect.png" alt="Runners looking for aerodynamic advantage typically wear sneakers because some fancy dress shoes can create wingtip vortices." height=300 />
+<a id="xkcd-a" title="Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/accelerator_energies.png" alt="Fans at Daytona always get extra excited when officials decide to introduce some antimatter cars circling the track in the opposite direction." height=300 />
 </a>
