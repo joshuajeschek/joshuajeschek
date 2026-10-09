@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/juice.png" alt="I need to push some updates to the remote sensing instruments, which are there to measure the surface and definitely not do anything else." height=300 />
+<a id="xkcd-a" title="People out here catching strays out here catching strays" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/dogcatcher.png" alt="People out here catching strays out here catching strays" height=300 />
 </a>
