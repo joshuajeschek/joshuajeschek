@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/rejected_space_mission_profiles.png" alt="Although NASA agreed that Voyager 2 'seemed lonely' they decided against launching a companion orbiter mission after further measurements indicated that the spacecraft actually preferred the peace and quiet." height=300 />
+<a id="xkcd-a" title="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planet_database.png" alt="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty." height=300 />
 </a>
