@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/planet_database.png" alt="Atmospheric transmission spectroscopy has revealed that the sunsets from the observatory are really pretty." height=300 />
+<a id="xkcd-a" title=""I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/momentum_demonstration.png" alt=""I'm doing really well on the Hertzsprung-Russell academic diagram, which has spectral class on one axis and Rate My Professors rating on the other."" height=300 />
 </a>
