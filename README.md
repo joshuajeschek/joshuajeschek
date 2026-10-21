@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/fusion_device.png" alt="I don't see why people have trouble doing this at room temperature. Using hot rivets would honestly have been MORE work." height=300 />
+<a id="xkcd-a" title="Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/vulnerability.png" alt="Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'." height=300 />
 </a>
