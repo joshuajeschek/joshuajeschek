@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/vulnerability.png" alt="Other numbers are largely unaffected, but anyone using '4' for their certificate key is urged to upgrade to '5'." height=300 />
+<a id="xkcd-a" title="The 'light' refers to bremsstrahlung." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/forms_of_water.png" alt="The 'light' refers to bremsstrahlung." height=300 />
 </a>
