@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="The 'light' refers to bremsstrahlung." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/forms_of_water.png" alt="The 'light' refers to bremsstrahlung." height=300 />
+<a id="xkcd-a" title="They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/siege_engine.png" alt="They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside." height=300 />
 </a>
