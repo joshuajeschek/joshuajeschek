@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/siege_engine.png" alt="They initially thought the containment structure alone would be sufficient, but for good measure they decided to include the Elephant's Foot inside." height=300 />
+<a id="xkcd-a" title="Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/gravitational_square_wave.png" alt="Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth." height=300 />
 </a>
