@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/gravitational_square_wave.png" alt="Depending on the energy deposition I can manage, it might also be a fun prank on the rest of the Earth." height=300 />
+<a id="xkcd-a" title="It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/earth_sized_planets.png" alt="It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io." height=300 />
 </a>
