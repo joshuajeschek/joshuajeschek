@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/earth_sized_planets.png" alt="It probably has an icy mantle over the real silicate geology, but I'm hoping something weird happened to burn off most of the water like with Io." height=300 />
+<a id="xkcd-a" title=""A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."" href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/elevators.png" alt=""A reusable elevator would also be great because we'd save so much on the bulky and expensive shields that people currently use to avoid bruises and rug burns when sliding down the stairs."" height=300 />
 </a>
