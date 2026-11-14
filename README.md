@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!" href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/meteor_fear.png" alt="Don't worry--even though small and potentially deadly meteors hit the ground all the time, statistically you're actually much more likely to die from a rare large one that destroys your whole area!" height=300 />
+<a id="xkcd-a" title="Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ultimate_movie_series.png" alt="Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy." height=300 />
 </a>
