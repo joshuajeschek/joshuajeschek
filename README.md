@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ultimate_movie_series.png" alt="Sadly, none of the 14 Land Before Time films manage to make the list, although a small but devoted fan contingent argues that The Great Longneck Migration should beat out Guardians of the Galaxy." height=300 />
+<a id="xkcd-a" title="After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/light_day.png" alt="After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players." height=300 />
 </a>
