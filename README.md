@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/light_day.png" alt="After 49 years, NASA is considering shutting down Voyager 1's multiplayer gaming server; the 172800000ms ping has just become too annoying for players." height=300 />
+<a id="xkcd-a" title="[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/voyager_crash.png" alt="[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere." height=300 />
 </a>
