@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/voyager_crash.png" alt="[Several months later] Actually, it looks like what it hit a few months ago was just the START of the crystal sphere zone. New data confirms Voyager 1 has now struck the ACTUAL crystal sphere." height=300 />
+<a id="xkcd-a" title="First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/plate_maintenance.png" alt="First we're going to have to relieve the built-up strain, but we'll do it one hemisphere at a time, so you'll just need to briefly move all your fragile stuff like buildings over to the other hemisphere while we work." height=300 />
 </a>
