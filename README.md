@@ -52,6 +52,6 @@ Typst                    2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### Current(ish) xkcd
-<a id="xkcd-a" title="These ivory tower elites are flouting both CITES and municipal building codes." href="https://www.xkcd.com" target="_blank">
-        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/ivory_tower_elites.png" alt="These ivory tower elites are flouting both CITES and municipal building codes." height=300 />
+<a id="xkcd-a" title="We've all chipped in to buy the retiring committee chair a gold-plated cesium atom." href="https://www.xkcd.com" target="_blank">
+        <img align="center" id="xkcd-img" src="https://imgs.xkcd.com/comics/cesium_atom.png" alt="We've all chipped in to buy the retiring committee chair a gold-plated cesium atom." height=300 />
 </a>
